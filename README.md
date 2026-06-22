@@ -47,7 +47,7 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 
 ### Backlog Düzeni ve Story Seçimleri
 
-(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)
+*[(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)]*
 
 ### Daily Scrum
 * **1. Gün**: 19 Haziran 2026: Başlangıç yayınından hemen sonra görev dağılımı ve rol tanımları üzerine görüşmelere başlandı. Karar süreçlerini hızlandırmak amacıyla tüm proje fikirlerinin kolektif bir listede birleştirilmesi kararlaştırılarak ortak bir çalışma disiplini oluşturuldu.
@@ -95,7 +95,7 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 
 ### Backlog Düzeni ve Story Seçimleri
 
-(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)
+*[(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)]*
 
 ### Daily Scrum
 
@@ -141,7 +141,7 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 
 ### Backlog Düzeni ve Story Seçimleri
 
-(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)
+*[(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)]*
 
 ### Daily Scrum
 
