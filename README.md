@@ -70,13 +70,13 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 
 ### Sprint Board Durumu
 * *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-*[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
-*[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
+* *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
 
 ### Ürün Durumu
-*[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-*[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
-*[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
+* *[Buraya AppSheet panelinizden ve AI mesajlaşma testlerinden ekran görüntülerini ekleyin]*
 
 ### Sprint Review
 * **Alınan Kararlar**:
