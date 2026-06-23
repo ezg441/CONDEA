@@ -51,22 +51,22 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 
 ### Daily Scrum
 * **1. GÜN** (*19 Haziran 2026*): Başlangıç yayınından hemen sonra görev dağılımı ve rol tanımları üzerine görüşmelere başlandı. Karar süreçlerini hızlandırmak amacıyla tüm proje fikirlerinin kolektif bir listede birleştirilmesi kararlaştırılarak ortak bir çalışma disiplini oluşturuldu.
-* **2. GÜN** (*20 Haziran 2026*): *Proje fikrini ve ekip rollerini konuşmak üzere bir toplantı saati belirlendi.*
-* **3. GÜN** (*21 Haziran 2026*): *Projenin ne olduğu ve roller belirlendi. Product backlog'un ve ardından ilk sprintin de hazırlanması kararlaştırıldı.*
-* **4. GÜN** (*22 Haziran 2026*): *Projenin teknik sürecinde zaman ve imkanlar açısından gerçekleştirilmesi zor noktalar tespit edildi. Bu sebeple süreç, proje fikri konusunda bir revize yapma veya tamamen yeni bir proje fikriyle baştan başlama şeklinde bir yöne evrildi.*
-* **5. GÜN** (*23 Haziran 2026*): *Daily scrum açıklaması*
-* **6. GÜN** (*24 Haziran 2026*): *Daily scrum açıklaması*
-* **7. GÜN** (*25 Haziran 2026*): *Daily scrum açıklaması*
-* **8. GÜN** (*26 Haziran 2026*): *Daily scrum açıklaması*
-* **9. GÜN** (*27 Haziran 2026*): *Daily scrum açıklaması*
-* **10. GÜN** (*28 Haziran 2026*): *Daily scrum açıklaması*
-* **11. GÜN** (*29 Haziran 2026*): *Daily scrum açıklaması*
-* **12. GÜN** (*30 Haziran 2026*): *Daily scrum açıklaması*
-* **13. GÜN** (*1 Temmuz 2026*): *Daily scrum açıklaması*
-* **14. GÜN** (*2 Temmuz 2026*): *Daily scrum açıklaması*
-* **15. GÜN** (*3 Temmuz 2026*): *Daily scrum açıklaması*
-* **16. GÜN** (*4 Temmuz 2026*): *Daily scrum açıklaması*
-* **17. GÜN** (*5 Temmuz 2026*): *Daily scrum açıklaması*
+* **2. GÜN** (*20 Haziran 2026*): Proje fikrini ve ekip rollerini konuşmak üzere bir toplantı saati belirlendi.
+* **3. GÜN** (*21 Haziran 2026*): Projenin ne olduğu ve roller belirlendi. Product backlog'un ve ardından ilk sprintin de hazırlanması kararlaştırıldı.*
+* **4. GÜN** (*22 Haziran 2026*): Projenin teknik sürecinde zaman ve imkanlar açısından gerçekleştirilmesi zor noktalar tespit edildi. Bu sebeple süreç, proje fikri konusunda bir revize yapma veya tamamen yeni bir proje fikriyle baştan başlama şeklinde bir yöne evrildi.
+* **5. GÜN** (*23 Haziran 2026*): Daily scrum açıklaması
+* **6. GÜN** (*24 Haziran 2026*): Daily scrum açıklaması
+* **7. GÜN** (*25 Haziran 2026*): Daily scrum açıklaması
+* **8. GÜN** (*26 Haziran 2026*): Daily scrum açıklaması
+* **9. GÜN** (*27 Haziran 2026*): Daily scrum açıklaması
+* **10. GÜN** (*28 Haziran 2026*): Daily scrum açıklaması
+* **11. GÜN** (*29 Haziran 2026*): Daily scrum açıklaması
+* **12. GÜN** (*30 Haziran 2026*): Daily scrum açıklaması
+* **13. GÜN** (*1 Temmuz 2026*): Daily scrum açıklaması
+* **14. GÜN** (*2 Temmuz 2026*): Daily scrum açıklaması
+* **15. GÜN** (*3 Temmuz 2026*): Daily scrum açıklaması
+* **16. GÜN** (*4 Temmuz 2026*): Daily scrum açıklaması
+* **17. GÜN** (*5 Temmuz 2026*): Daily scrum açıklaması
 
 ### Sprint Board Durumu
 * *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
