@@ -54,7 +54,7 @@ Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterile
 * **2. GÜN** (*20 Haziran 2026*): Proje fikrini ve ekip rollerini konuşmak üzere bir toplantı saati belirlendi.
 * **3. GÜN** (*21 Haziran 2026*): Projenin ne olduğu ve roller belirlendi. Product backlog'un ve ardından ilk sprintin de hazırlanması kararlaştırıldı.
 * **4. GÜN** (*22 Haziran 2026*): Projenin teknik sürecinde zaman ve imkanlar açısından gerçekleştirilmesi zor noktalar tespit edildi. Bu sebeple süreç, proje fikri konusunda bir revize yapma veya tamamen yeni bir proje fikriyle baştan başlama şeklinde bir yöne evrildi.
-* **5. GÜN** (*23 Haziran 2026*): Proje fikri değişkliğine gidilmesine karar verildi ve proje fikri netleştirildi. Developer'ların fikirleri esas alınarak bu doğrultuda 24.06.2026 tarihinde product backlogun oluşturulması kararlaştırıldı. 
+* **5. GÜN** (*23 Haziran 2026*): Proje fikri değişikliğine gidilmesine karar verildi ve proje fikri netleştirildi. Developer'ların fikirleri esas alınarak bu doğrultuda 24.06.2026 tarihinde product backlogun oluşturulması kararlaştırıldı. 
 * **6. GÜN** (*24 Haziran 2026*): Daily scrum açıklaması
 * **7. GÜN** (*25 Haziran 2026*): Daily scrum açıklaması
 * **8. GÜN** (*26 Haziran 2026*): Daily scrum açıklaması
