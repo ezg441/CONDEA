@@ -1,4 +1,4 @@
-# GoStock - Esnaflar için Yapay Zeka Destekli Akıllı Stok ve Mesajlaşma Asistanı
+# COMMENTRA: " XXXXXXX "
 
 Grup 4 Yapay Zeka ve Teknoloji Akademisi - No-Code/Low-Code Bootcamp 2026 Projesi
 
@@ -16,25 +16,32 @@ Grup 4 Yapay Zeka ve Teknoloji Akademisi - No-Code/Low-Code Bootcamp 2026 Projes
 ## Ürün Bilgileri
 
 ### Ürün İsmi
-GoStock
+Commentra
 
 ### Ürün Açıklaması
-GoStock, geleneksel esnafların ve küçük işletmelerin dijitalleşmesini sağlayan; WhatsApp ve Instagram DM kanallarından gelen müşteri yoğunluğunu yapay zeka ile yönetirken arka planda No-Code entegrasyonuyla anlık stok takibi yapan akıllı bir otomasyon sistemidir.
-
-Sistem, esnafın günlük operasyonel yükünü sıfıra indirirken, müşterilerin anlık stok sorularına 7/24 esnaf dilinde doğru yanıtlar üreterek satış dönüşümlerini artırır.
+*
+*
+*
+*
+*
+*
+*
 
 ### Ürün Özellikleri
-* **Google AppSheet Entegrasyonu**: Esnafın cep telefonundan kolayca ürün eklemesini ve hızlı stok girişi yapmasını sağlayan dinamik mobil/web panel.
-* **Merkezi Veri Yönetimi (Google Sheets)**: Tüm stok ve ürün verilerinin güvenli, anlık ve maliyetsiz bir şekilde bulutta depolanması.
-* **Yapay Zeka Destekli Müşteri İlişkileri (AI Agent & n8n)**: Instagram DM ve WhatsApp üzerinden gelen ürün ve fiyat sorularının n8n üzerinden yakalanıp, Gemini entegrasyonlu AI Agent ile anlık cevaplanması.
-* **Akıllı Stok Sorgulama (RAG / Tool Çağırma)**: Yapay zekanın sadece metin üretmekle kalmayıp, esnafın güncel stok tablosuna giderek anlık veri doğrulaması yapması.
-* **Kritik Stok Bildirim Sistemi**: Herhangi bir ürünün stoğu tükendiğinde, n8n aracılığıyla esnafa (Telegram/WhatsApp üzerinden) anlık mobil uyarı gitmesi.
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Hedef Kitle
-* Yoğun müşteri mesajı alan yerel esnaflar ve KOBİ'ler
-* Instagram ve WhatsApp üzerinden e-ticaret/satış yapan butikler
-* Karmaşık ERP sistemlerine bütçe ayıramayan küçük işletmeler
-* Müşteri ilişkilerini otomatize etmek isteyen dijital girişimciler
+* XXX
+* XXX
+* XXX
+* XXX
 
 ### Product Backlog
 [https://yzta.slack.com/lists/T02LKGXV98C/F0BC0E7CD8U]
