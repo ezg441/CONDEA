@@ -14,8 +14,6 @@ Grup 4 Yapay Zeka ve Teknoloji Akademisi - No-Code/Low-Code Bootcamp 2026 Projes
 ---
 
 ## Ürün Bilgileri
-XXXXXX
-
 ### Ürün İsmi
 Commentra
 
