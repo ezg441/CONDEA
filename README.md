@@ -45,6 +45,7 @@ XXXXXXXXXXXXXXX
 *[(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)]*
 
 ### Daily Scrum
+
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
 | **1. GÜN** | 19 Haziran 2026 | Başlangıç yayınından hemen sonra görev dağılımı ve rol tanımları üzerine görüşmelere başlandı. Karar süreçlerini hızlandırmak amacıyla tüm proje fikirlerinin kolektif bir listede birleştirilmesi kararlaştırılarak ortak bir çalışma disiplini oluşturuldu. |
@@ -96,20 +97,22 @@ XXXXXXXXXXXXXXX
 
 ### Daily Scrum
 
-* **18. GÜN** (*6 Temmuz 2026*): [X] görevini tamamlamıştık, bugün [Y] üzerinde çalışacağız ve şu an önümüzde herhangi bir engel [Z] bulunmuyor.
-* **19. GÜN** (*7 Temmuz 2026*): Daily scrum açıklaması
-* **20. GÜN** (*8 Temmuz 2026*): Daily scrum açıklaması
-* **21. GÜN** (*9 Temmuz 2026*): Daily scrum açıklaması
-* **22. GÜN** (*10 Temmuz 2026*): Daily scrum açıklaması
-* **23. GÜN** (*11 Temmuz 2026*): Daily scrum açıklaması
-* **24. GÜN** (*12 Temmuz 2026*): Daily scrum açıklaması
-* **25. GÜN** (*13 Temmuz 2026*): Daily scrum açıklaması
-* **26. GÜN** (*14 Temmuz 2026*): Daily scrum açıklaması
-* **27. GÜN** (*15 Temmuz 2026*): Daily scrum açıklaması
-* **28. GÜN** (*16 Temmuz 2026*): Daily scrum açıklaması
-* **29. GÜN** (*17 Temmuz 2026*): Daily scrum açıklaması
-* **30. GÜN** (*18 Temmuz 2026*): Daily scrum açıklaması
-* **31. GÜN** (*19 Temmuz 2026*): Daily scrum açıklaması
+| Gün | Tarih | Açıklama |
+| :--- | :--- | :--- |
+| **18. GÜN** | 6 Temmuz 2026 | [X] görevini tamamlamıştık, bugün [Y] üzerinde çalışacağız ve şu an önümüzde herhangi bir engel [Z] bulunmuyor. |
+| **19. GÜN** | 7 Temmuz 2026 | Daily scrum açıklaması |
+| **20. GÜN** | 8 Temmuz 2026 | Daily scrum açıklaması |
+| **21. GÜN** | 9 Temmuz 2026 | Daily scrum açıklaması |
+| **22. GÜN** | 10 Temmuz 2026 | Daily scrum açıklaması |
+| **23. GÜN** | 11 Temmuz 2026 | Daily scrum açıklaması |
+| **24. GÜN** | 12 Temmuz 2026 | Daily scrum açıklaması |
+| **25. GÜN** | 13 Temmuz 2026 | Daily scrum açıklaması |
+| **26. GÜN** | 14 Temmuz 2026 | Daily scrum açıklaması |
+| **27. GÜN** | 15 Temmuz 2026 | Daily scrum açıklaması |
+| **28. GÜN** | 16 Temmuz 2026 | Daily scrum açıklaması |
+| **29. GÜN** | 17 Temmuz 2026 | Daily scrum açıklaması |
+| **30. GÜN** | 18 Temmuz 2026 | Daily scrum açıklaması |
+| **31. GÜN** | 19 Temmuz 2026 | Daily scrum açıklaması |
 
 ### Sprint Board Durumu
 * *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
@@ -142,20 +145,22 @@ XXXXXXXXXXXXXXX
 
 ### Daily Scrum
 
-* **32. GÜN** (*20 Temmuz 2026*): [X] görevini tamamlamıştık, bugün [Y] üzerinde çalışacağız ve şu an önümüzde herhangi bir engel [Z] bulunmuyor. 
-* **33. GÜN** (*21 Temmuz 2026*): Daily scrum açıklaması
-* **34. GÜN** (*22 Temmuz 2026*): Daily scrum açıklaması
-* **35. GÜN** (*23 Temmuz 2026*): Daily scrum açıklaması
-* **36. GÜN** (*24 Temmuz 2026*): Daily scrum açıklaması
-* **37. GÜN** (*25 Temmuz 2026*): Daily scrum açıklaması
-* **38. GÜN** (*26 Temmuz 2026*): Daily scrum açıklaması
-* **39. GÜN** (*27 Temmuz 2026*): Daily scrum açıklaması
-* **40. GÜN** (*28 Temmuz 2026*): Daily scrum açıklaması
-* **41. GÜN** (*29 Temmuz 2026*): Daily scrum açıklaması
-* **42. GÜN** (*30 Temmuz 2026*): Daily scrum açıklaması
-* **43. GÜN** (*31 Temmuz 2026*): Daily scrum açıklaması
-* **44. GÜN** (*1 Ağustos 2026*): Daily scrum açıklaması
-* **45. GÜN** (*2 Ağustos 2026*): Daily scrum açıklaması
+| Gün | Tarih | Açıklama |
+| :--- | :--- | :--- |
+| **32. GÜN** | 20 Temmuz 2026 | [X] görevini tamamlamıştık, bugün [Y] üzerinde çalışacağız ve şu an önümüzde herhangi bir engel [Z] bulunmuyor. |
+| **33. GÜN** | 21 Temmuz 2026 | Daily scrum açıklaması |
+| **34. GÜN** | 22 Temmuz 2026 | Daily scrum açıklaması |
+| **35. GÜN** | 23 Temmuz 2026 | Daily scrum açıklaması |
+| **36. GÜN** | 24 Temmuz 2026 | Daily scrum açıklaması |
+| **37. GÜN** | 25 Temmuz 2026 | Daily scrum açıklaması |
+| **38. GÜN** | 26 Temmuz 2026 | Daily scrum açıklaması |
+| **39. GÜN** | 27 Temmuz 2026 | Daily scrum açıklaması |
+| **40. GÜN** | 28 Temmuz 2026 | Daily scrum açıklaması |
+| **41. GÜN** | 29 Temmuz 2026 | Daily scrum açıklaması |
+| **42. GÜN** | 30 Temmuz 2026 | Daily scrum açıklaması |
+| **43. GÜN** | 31 Temmuz 2026 | Daily scrum açıklaması |
+| **44. GÜN** | 1 Ağustos 2026 | Daily scrum açıklaması |
+| **45. GÜN** | 2 Ağustos 2026 | Daily scrum açıklaması |
 
 ### Sprint Board Durumu
 * *[Buraya Miro veya Jira Sprint Board ekran görüntüsünü ekleyin]*
