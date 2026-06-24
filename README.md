@@ -53,7 +53,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **3. GÜN** | 21 Haziran 2026 | Projenin ne olduğu ve roller belirlendi. Product backlog'un ve ardından ilk sprintin de hazırlanması kararlaştırıldı. |
 | **4. GÜN** | 22 Haziran 2026 | Projenin teknik sürecinde zaman ve imkanlar açısından gerçekleştirilmesi zor noktalar tespit edildi. Bu sebeple süreç, proje fikri konusunda bir revize yapma veya tamamen yeni bir proje fikriyle baştan başlama şeklinde bir yöne evrildi. |
 | **5. GÜN** | 23 Haziran 2026 | Proje fikri değişikliğine gidilmesine karar verilerek **GoStock** projesinden vazgeçildi ve proje fikri **Condea** olarak netleştirildi. Developer'ların fikirleri esas alınarak bu doğrultuda 24.06.2026 tarihinde product backlogun oluşturulması kararlaştırıldı. |
-| **6. GÜN** | 24 Haziran 2026 | Daily scrum açıklaması |
+| **6. GÜN** | 24 Haziran 2026 | **Product Backlog** ve **Sprint 1** panoları oluşturuldu, ilgili görevler atandı. Projeyi geliştirecek ekstra özellikler tartışıldı. Görevlerin zorluk dereceleri, geliştiricilerin fikirleri değerlendirilerek güncellenecek. |
 | **7. GÜN** | 25 Haziran 2026 | Daily scrum açıklaması |
 | **8. GÜN** | 26 Haziran 2026 | Daily scrum açıklaması |
 | **9. GÜN** | 27 Haziran 2026 | Daily scrum açıklaması |
@@ -68,7 +68,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 ### Sprint Board Durumu
 #### 1. Ekran Görüntüsü (24.06.2026)
-<img width="1635" height="736" alt="resim" src="https://github.com/user-attachments/assets/2f85c585-0797-4cc8-ae1e-4e8a877b3fe7" />
+<img width="1635" height="736" alt="resim" src="https://github.com/user-attachments/assets/2c4a73f7-dd66-4564-b496-be1050238c4a" />
 
 #### 2. Ekran Görüntüsü (XX.XX.XXXX)
 
