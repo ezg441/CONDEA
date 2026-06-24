@@ -1,6 +1,8 @@
-#**CONDEA : " Akıllı İçerik Öneri Takip Sistemi "**
+# **CONDEA: "Akıllı İçerik Öneri Takip Sistemi"**
 
 Grup 4 Yapay Zeka ve Teknoloji Akademisi - No-Code/Low-Code Bootcamp 2026 Projesi
+
+*Projenin sloganı buraya yazılacak.*
 
 ---
 
