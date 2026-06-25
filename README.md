@@ -56,7 +56,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **4. GÜN** | 22 Haziran 2026 | Projenin teknik sürecinde zaman ve imkanlar açısından gerçekleştirilmesi zor noktalar tespit edildi. Bu sebeple süreç, proje fikri konusunda bir revize yapma veya tamamen yeni bir proje fikriyle baştan başlama şeklinde bir yöne evrildi. |
 | **5. GÜN** | 23 Haziran 2026 | Proje fikri değişikliğine gidilmesine karar verilerek **GoStock** projesinden vazgeçildi ve proje fikri **Condea** olarak netleştirildi. Developer'ların fikirleri esas alınarak bu doğrultuda 24.06.2026 tarihinde product backlogun oluşturulması kararlaştırıldı. |
 | **6. GÜN** | 24 Haziran 2026 | **Product Backlog** ve **Sprint 1** panoları oluşturuldu, ilgili görevler atandı. Projeyi geliştirecek ekstra özellikler tartışıldı. Görevlerin zorluk dereceleri, geliştiricilerin fikirleri değerlendirilerek güncellenecek. |
-| **7. GÜN** | 25 Haziran 2026 | Daily scrum açıklaması |
+| **7. GÜN** | 25 Haziran 2026 | Make üzerinden hazırlanacak otonom sistemin web tabanlı bir MVP'ye dönüştürülebilmesi için iki farklı No-Code/Low-Code (Softr ve Bubble) yöntemi üzerinden altyapı araştırması yapıldı ve üzerinde konuşulmak üzere karşılaştırmalı rapor hazırlandı. |
 | **8. GÜN** | 26 Haziran 2026 | Daily scrum açıklaması |
 | **9. GÜN** | 27 Haziran 2026 | Daily scrum açıklaması |
 | **10. GÜN** | 28 Haziran 2026 | Daily scrum açıklaması |
