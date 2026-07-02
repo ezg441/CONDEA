@@ -2,7 +2,7 @@
 
 Grup 4 Yapay Zeka ve Teknoloji Akademisi - No-Code/Low-Code Bootcamp 2026 Projesi
 
-*Projenin sloganı buraya yazılacak.*
+> *Projenin sloganı buraya yazılacak.*
 
 ---
 
@@ -68,6 +68,8 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **16. GÜN** | 4 Temmuz 2026 | **Dün:** XXX<br>**Bugün:** XXX<br>**Engel:** Yok. |
 | **17. GÜN** | 5 Temmuz 2026 | **Dün:** XXX<br>**Bugün:** XXX<br>**Engel:** Yok. |
 
+---
+
 ### Sprint Board Durumu
 #### 1. Ekran Görüntüsü (24.06.2026)
 <img width="1635" height="736" alt="resim" src="https://github.com/user-attachments/assets/2c4a73f7-dd66-4564-b496-be1050238c4a" />
@@ -81,24 +83,81 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 #### 4. Ekran Görüntüsü (02.07.2026)
 <img width="1397" height="777" alt="resim" src="https://github.com/user-attachments/assets/6bc706b2-5e01-44c8-b126-5479e439a8e0" />
 
+---
+
 ### Ürün Durumu
 #### 1. Ekran Görüntüsü (26.06.2026)
 <img width="1289" height="618" alt="resim" src="https://github.com/user-attachments/assets/e8116345-bb0b-449f-a36c-4560801e1079" />
 <img width="1770" height="649" alt="resim" src="https://github.com/user-attachments/assets/da430217-fd83-4974-94c2-8a08b2fad94f" />
 
-### Sprint Review
-* **Alınan Kararlar**:
-* **Katılımcılar**: *[Ufuk Demir, Ayşe Dilara Baysal, Ezgisu Badak, Feyzanur Karatay, Furkan Çakı]*
+---
 
-### Sprint Retrospective
-* 
-* 
-* 
+### 🔎 Sprint Review
 
-### Sprint Notları
-* 
-* 
-* 
+**Amacı:** Sprint boyunca "Ne ürettik?" sorusunun cevabıdır. Takım, Sprint başında hedeflediği ve bitirdiği çalışan özellikleri (ürün parçasını) canlı olarak demo yapar ve teknik doğrulamayı gerçekleştirir.
+
+* **Sprint Hedefi:** YouTube yorumlarını otonom olarak yakalayıp Gemini ile filtrelenmiş yapay zeka yanıtları üreten çalışan bir veri hattı (MVP) kurmak.
+* **Katılımcılar:** Ufuk Demir, Ezgisu Badak, Feyzanur Karatay, Furkan Çakı, Ayşe Dilara Baysal **(Tüm Scrum Takımı)**
+> *Not: Bu sprint sonu değerlendirmesi, dış paydaş katılımı olmaksızın "İç Teknik Demo" olarak gerçekleştirilmiştir.*
+
+---
+
+* **Tamamlanan ve Demosu Yapılan İşler:**
+  * [✓] YouTube "Watch Comments" modülü entegrasyonu (Canlı akış başarıyla izlendi).
+  * [✓] Google Sheets üzerinden mükerrer yorum filtresi (Duplicate Filtering testi başarıyla geçildi).
+  * [✓] Gemini prompt mühendisliği ve 2 farklı yanıt taslağı üretimi (Çıktı kalitesi ekipçe onaylandı).
+  * [✓] Airtable veri mimarisi testi ve veri eşleştirme doğrulaması.
+
+* **Ekip İçi Teknik Değerlendirme & Gelecek Sprint Kararları:** 
+  * Gemini'ın ürettiği yanıt şablonlarının kalitesi ekip tarafından yeterli bulundu; ancak sonraki fazlarda yanıt kalitesini artırmak için bir "tonlama ayarı" (resmi/samimi) eklenmesi teknik backlog'a dahil edildi.
+  * Veri hattının kararlı çalıştığı internal demo ile doğrulandığından, Sprint 2'de doğrudan Softr arayüz tasarımına ve front-end geliştirmelerine odaklanılması kararlaştırıldı.
+
+---
+
+### 🔄 Sprint Retrospective
+
+**Amacı:** Ürüne değil, takımın çalışma şekline ve süreçlerine odaklanılır. "Nasıl çalıştık, neleri daha iyi yapabiliriz?" sorusuna cevap aranır. Takım içi açık ve şeffaf bir dürüstlük seansıdır.
+
+#### 🟢 Ne İyi Gitti? (What went well?)
+*   İlk projedeki (GoStock) teknik engeli 4. günde çok hızlı fark edip pivot (fikir değiştirme) kararı alabildik. Zaman kaybetmedik.
+*   Make.com ve Gemini entegrasyonu beklediğimizden çok daha hızlı ve stabil çalıştı.
+*   Takım içi yardımlaşma ve Daily Scrum disiplini yüksekti.
+
+#### 🔴 Ne Kötü Gitti? (What went wrong?)
+*   Sprint başında projenin teknik fizibilitesini tam yapmadığımız için ilk 3 günü boşa harcadık ve proje değiştirmek zorunda kaldık.
+*   YouTube'daki "gölge yanıt" sorunu bizi 1 gün boyunca blokladı.
+
+#### 🎯 Gelecek Sprint İçin Aksiyon Planları (Action Items)
+*   **Aksiyon 1:** Sprint 2 planlamasına başlamadan önce No-Code araçlarının (Softr) teknik sınırları kontrol edilecek. (Sorumlu: Geliştirici A)
+*   **Aksiyon 2:** API kota ve kısıtlamaları önceden listelenecek. (Sorumlu: Geliştirici B)
+
+---
+
+### 📝 Sprint Notları
+
+**Amacı:** O sprintin tüm teknik ve idari özetidir. Projenin hafızasıdır (Archive). Dönüp bakıldığında o tarihte projenin hangi sürümde olduğu ve ne durumda olduğunu gösterir. İçinde takvim, metrikler, review ve retro özetleri bir arada bulunur.
+
+#### 📅 Genel Bilgiler
+*   **Tarih Aralığı:** 19 Haziran 2026 - 2 Temmuz 2026 (14 Gün)
+*   **Sprint Hedefi:** Temel otonom veri hattının çalışır hale getirilmesi (MVP)
+*   **Sprint Durumu:** Başarıyla Tamamlandı (Hatta Sprint 2 görevlerine erken başlandı)
+
+#### 📈 Hız ve Metrikler (Velocity)
+*   **Planlanan İş (Story Point / Görev Sayısı):** 8 Görev
+*   **Tamamlanan İş:** 8 Görev (GoStock iptal edildikten sonra Condea kapsamında açılan tüm görevler kapatılmıştır.)
+
+#### 🛠️ Teknik Gelişmeler & Sürüm Notları (Release Notes)
+*   **YouTube Otomasyonu:** Canlı yorum akışı Sheets'e bağlandı.
+*   **Filtreleme:** `Search Rows` ile mükerrer veri işleme hatası %100 engellendi.
+*   **Yapay Zeka:** Gemini API entegrasyonu ile otomatik duygu analizi ve yanıt taslağı kurgusu yapıldı.
+*   **Veri Mimarisi:** Verilerin Airtable/Sheets üzerinde ilişkisel tutulması sağlandı.
+
+#### ⚠️ Yaşanan Değişiklikler ve Kriz Yönetimi
+*   **22-23 Haziran:** GoStock projesinin zaman/imkan kısıtları nedeniyle iptal edilmesine ve yapay zeka odaklı **Condea** projesine geçilmesine oy birliğiyle karar verilmiştir. Bu stratejik pivot, projenin başarısını olumlu etkilemiştir.
+
+#### 🎯 Sonraki Sprint (Sprint 2) Odağı
+*   Web tabanlı arayüzün (Softr/Bubble) tasarlanması.
+*   Kullanıcı paneli ve yorum yönetim ekranlarının front-end geliştirmesi.
 ---
 
 ## SPRINT 2️⃣
@@ -128,12 +187,16 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **30. GÜN** | 18 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
 | **31. GÜN** | 19 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
 
+---
+
 ### Sprint Board Durumu
 #### 1. Ekran Görüntüsü (XX.XX.XXXX)
 
 #### 2. Ekran Görüntüsü (XX.XX.XXXX)
 
 #### 3. Ekran Görüntüsü (XX.XX.XXXX)
+
+---
 
 ### Ürün Durumu
 #### 1. Ekran Görüntüsü (XX.XX.XXXX)
@@ -142,19 +205,74 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 #### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
-### Sprint Review
-* **Alınan Kararlar**:
-* **Katılımcılar**: *[Ufuk Demir, Ayşe Dilara Baysal, Ezgisu Badak, Feyzanur Karatay, Furkan Çakı]*
+---
 
-### Sprint Retrospective
-* 
-* 
-* 
+### 🔎 Sprint Review
 
-### Sprint Notları
-* 
-* 
-* 
+**Amacı:** Sprint boyunca "Ne ürettik?" sorusunun cevabıdır. Takım, Sprint başında hedeflediği ve bitirdiği çalışan özellikleri (ürün parçasını) canlı olarak demo yapar ve teknik doğrulamayı gerçekleştirir.
+
+* **Sprint Hedefi:** YouTube yorumlarını otonom olarak yakalayıp Gemini ile filtrelenmiş yapay zeka yanıtları üreten çalışan bir veri hattı (MVP) kurmak.
+* **Katılımcılar:** Ufuk Demir, Ezgisu Badak, Feyzanur Karatay, Furkan Çakı, Ayşe Dilara Baysal **(Tüm Scrum Takımı)**
+> *Not: Bu sprint sonu değerlendirmesi, dış paydaş katılımı olmaksızın "İç Teknik Demo" olarak gerçekleştirilmiştir.*
+
+---
+
+* **Tamamlanan ve Demosu Yapılan İşler:**
+  * [✓] YouTube "Watch Comments" modülü entegrasyonu (Canlı akış başarıyla izlendi).
+  * [✓] Google Sheets üzerinden mükerrer yorum filtresi (Duplicate Filtering testi başarıyla geçildi).
+  * [✓] Gemini prompt mühendisliği ve 2 farklı yanıt taslağı üretimi (Çıktı kalitesi ekipçe onaylandı).
+  * [✓] Airtable veri mimarisi testi ve veri eşleştirme doğrulaması.
+
+* **Ekip İçi Teknik Değerlendirme & Gelecek Sprint Kararları:** 
+  * Gemini'ın ürettiği yanıt şablonlarının kalitesi ekip tarafından yeterli bulundu; ancak sonraki fazlarda yanıt kalitesini artırmak için bir "tonlama ayarı" (resmi/samimi) eklenmesi teknik backlog'a dahil edildi.
+  * Veri hattının kararlı çalıştığı internal demo ile doğrulandığından, Sprint 2'de doğrudan Softr arayüz tasarımına ve front-end geliştirmelerine odaklanılması kararlaştırıldı.
+
+---
+
+### 🔄 Sprint Retrospective
+
+**Amacı:** Ürüne değil, takımın çalışma şekline ve süreçlerine odaklanılır. "Nasıl çalıştık, neleri daha iyi yapabiliriz?" sorusuna cevap aranır. Takım içi açık ve şeffaf bir dürüstlük seansıdır.
+
+#### 🟢 Ne İyi Gitti? (What went well?)
+*   İlk projedeki (GoStock) teknik engeli 4. günde çok hızlı fark edip pivot (fikir değiştirme) kararı alabildik. Zaman kaybetmedik.
+*   Make.com ve Gemini entegrasyonu beklediğimizden çok daha hızlı ve stabil çalıştı.
+*   Takım içi yardımlaşma ve Daily Scrum disiplini yüksekti.
+
+#### 🔴 Ne Kötü Gitti? (What went wrong?)
+*   Sprint başında projenin teknik fizibilitesini tam yapmadığımız için ilk 3 günü boşa harcadık ve proje değiştirmek zorunda kaldık.
+*   YouTube'daki "gölge yanıt" sorunu bizi 1 gün boyunca blokladı.
+
+#### 🎯 Gelecek Sprint İçin Aksiyon Planları (Action Items)
+*   **Aksiyon 1:** Sprint 2 planlamasına başlamadan önce No-Code araçlarının (Softr) teknik sınırları kontrol edilecek. (Sorumlu: Geliştirici A)
+*   **Aksiyon 2:** API kota ve kısıtlamaları önceden listelenecek. (Sorumlu: Geliştirici B)
+
+---
+
+### 📝 Sprint Notları
+
+**Amacı:** O sprintin tüm teknik ve idari özetidir. Projenin hafızasıdır (Archive). Dönüp bakıldığında o tarihte projenin hangi sürümde olduğu ve ne durumda olduğunu gösterir. İçinde takvim, metrikler, review ve retro özetleri bir arada bulunur.
+
+#### 📅 Genel Bilgiler
+*   **Tarih Aralığı:** 19 Haziran 2026 - 2 Temmuz 2026 (14 Gün)
+*   **Sprint Hedefi:** Temel otonom veri hattının çalışır hale getirilmesi (MVP)
+*   **Sprint Durumu:** Başarıyla Tamamlandı (Hatta Sprint 2 görevlerine erken başlandı)
+
+#### 📈 Hız ve Metrikler (Velocity)
+*   **Planlanan İş (Story Point / Görev Sayısı):** 8 Görev
+*   **Tamamlanan İş:** 8 Görev (GoStock iptal edildikten sonra Condea kapsamında açılan tüm görevler kapatılmıştır.)
+
+#### 🛠️ Teknik Gelişmeler & Sürüm Notları (Release Notes)
+*   **YouTube Otomasyonu:** Canlı yorum akışı Sheets'e bağlandı.
+*   **Filtreleme:** `Search Rows` ile mükerrer veri işleme hatası %100 engellendi.
+*   **Yapay Zeka:** Gemini API entegrasyonu ile otomatik duygu analizi ve yanıt taslağı kurgusu yapıldı.
+*   **Veri Mimarisi:** Verilerin Airtable/Sheets üzerinde ilişkisel tutulması sağlandı.
+
+#### ⚠️ Yaşanan Değişiklikler ve Kriz Yönetimi
+*   **22-23 Haziran:** GoStock projesinin zaman/imkan kısıtları nedeniyle iptal edilmesine ve yapay zeka odaklı **Condea** projesine geçilmesine oy birliğiyle karar verilmiştir. Bu stratejik pivot, projenin başarısını olumlu etkilemiştir.
+
+#### 🎯 Sonraki Sprint (Sprint 2) Odağı
+*   Web tabanlı arayüzün (Softr/Bubble) tasarlanması.
+*   Kullanıcı paneli ve yorum yönetim ekranlarının front-end geliştirmesi.
 ---
 
 ## SPRINT 3️⃣
@@ -184,12 +302,16 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **44. GÜN** | 1 Ağustos 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
 | **45. GÜN** | 2 Ağustos 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
 
+---
+
 ### Sprint Board Durumu
 #### 1. Ekran Görüntüsü (XX.XX.XXXX)
 
 #### 2. Ekran Görüntüsü (XX.XX.XXXX)
 
 #### 3. Ekran Görüntüsü (XX.XX.XXXX)
+
+---
 
 ### Ürün Durumu
 #### 1. Ekran Görüntüsü (XX.XX.XXXX)
@@ -198,17 +320,72 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 #### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
-### Sprint Review
-* **Alınan Kararlar**:
-* **Katılımcılar**: *[Ufuk Demir, Ayşe Dilara Baysal, Ezgisu Badak, Feyzanur Karatay, Furkan Çakı]*
+---
 
-### Sprint Retrospective
-* 
-* 
-* 
+### 🔎 Sprint Review
 
-### Sprint Notları
-* 
-* 
-* 
+**Amacı:** Sprint boyunca "Ne ürettik?" sorusunun cevabıdır. Takım, Sprint başında hedeflediği ve bitirdiği çalışan özellikleri (ürün parçasını) canlı olarak demo yapar ve teknik doğrulamayı gerçekleştirir.
+
+* **Sprint Hedefi:** YouTube yorumlarını otonom olarak yakalayıp Gemini ile filtrelenmiş yapay zeka yanıtları üreten çalışan bir veri hattı (MVP) kurmak.
+* **Katılımcılar:** Ufuk Demir, Ezgisu Badak, Feyzanur Karatay, Furkan Çakı, Ayşe Dilara Baysal **(Tüm Scrum Takımı)**
+> *Not: Bu sprint sonu değerlendirmesi, dış paydaş katılımı olmaksızın "İç Teknik Demo" olarak gerçekleştirilmiştir.*
+
+---
+
+* **Tamamlanan ve Demosu Yapılan İşler:**
+  * [✓] YouTube "Watch Comments" modülü entegrasyonu (Canlı akış başarıyla izlendi).
+  * [✓] Google Sheets üzerinden mükerrer yorum filtresi (Duplicate Filtering testi başarıyla geçildi).
+  * [✓] Gemini prompt mühendisliği ve 2 farklı yanıt taslağı üretimi (Çıktı kalitesi ekipçe onaylandı).
+  * [✓] Airtable veri mimarisi testi ve veri eşleştirme doğrulaması.
+
+* **Ekip İçi Teknik Değerlendirme & Gelecek Sprint Kararları:** 
+  * Gemini'ın ürettiği yanıt şablonlarının kalitesi ekip tarafından yeterli bulundu; ancak sonraki fazlarda yanıt kalitesini artırmak için bir "tonlama ayarı" (resmi/samimi) eklenmesi teknik backlog'a dahil edildi.
+  * Veri hattının kararlı çalıştığı internal demo ile doğrulandığından, Sprint 2'de doğrudan Softr arayüz tasarımına ve front-end geliştirmelerine odaklanılması kararlaştırıldı.
+
+---
+
+### 🔄 Sprint Retrospective
+
+**Amacı:** Ürüne değil, takımın çalışma şekline ve süreçlerine odaklanılır. "Nasıl çalıştık, neleri daha iyi yapabiliriz?" sorusuna cevap aranır. Takım içi açık ve şeffaf bir dürüstlük seansıdır.
+
+#### 🟢 Ne İyi Gitti? (What went well?)
+*   İlk projedeki (GoStock) teknik engeli 4. günde çok hızlı fark edip pivot (fikir değiştirme) kararı alabildik. Zaman kaybetmedik.
+*   Make.com ve Gemini entegrasyonu beklediğimizden çok daha hızlı ve stabil çalıştı.
+*   Takım içi yardımlaşma ve Daily Scrum disiplini yüksekti.
+
+#### 🔴 Ne Kötü Gitti? (What went wrong?)
+*   Sprint başında projenin teknik fizibilitesini tam yapmadığımız için ilk 3 günü boşa harcadık ve proje değiştirmek zorunda kaldık.
+*   YouTube'daki "gölge yanıt" sorunu bizi 1 gün boyunca blokladı.
+
+#### 🎯 Gelecek Sprint İçin Aksiyon Planları (Action Items)
+*   **Aksiyon 1:** Sprint 2 planlamasına başlamadan önce No-Code araçlarının (Softr) teknik sınırları kontrol edilecek. (Sorumlu: Geliştirici A)
+*   **Aksiyon 2:** API kota ve kısıtlamaları önceden listelenecek. (Sorumlu: Geliştirici B)
+
+---
+
+### 📝 Sprint Notları
+
+**Amacı:** O sprintin tüm teknik ve idari özetidir. Projenin hafızasıdır (Archive). Dönüp bakıldığında o tarihte projenin hangi sürümde olduğu ve ne durumda olduğunu gösterir. İçinde takvim, metrikler, review ve retro özetleri bir arada bulunur.
+
+#### 📅 Genel Bilgiler
+*   **Tarih Aralığı:** 19 Haziran 2026 - 2 Temmuz 2026 (14 Gün)
+*   **Sprint Hedefi:** Temel otonom veri hattının çalışır hale getirilmesi (MVP)
+*   **Sprint Durumu:** Başarıyla Tamamlandı (Hatta Sprint 2 görevlerine erken başlandı)
+
+#### 📈 Hız ve Metrikler (Velocity)
+*   **Planlanan İş (Story Point / Görev Sayısı):** 8 Görev
+*   **Tamamlanan İş:** 8 Görev (GoStock iptal edildikten sonra Condea kapsamında açılan tüm görevler kapatılmıştır.)
+
+#### 🛠️ Teknik Gelişmeler & Sürüm Notları (Release Notes)
+*   **YouTube Otomasyonu:** Canlı yorum akışı Sheets'e bağlandı.
+*   **Filtreleme:** `Search Rows` ile mükerrer veri işleme hatası %100 engellendi.
+*   **Yapay Zeka:** Gemini API entegrasyonu ile otomatik duygu analizi ve yanıt taslağı kurgusu yapıldı.
+*   **Veri Mimarisi:** Verilerin Airtable/Sheets üzerinde ilişkisel tutulması sağlandı.
+
+#### ⚠️ Yaşanan Değişiklikler ve Kriz Yönetimi
+*   **22-23 Haziran:** GoStock projesinin zaman/imkan kısıtları nedeniyle iptal edilmesine ve yapay zeka odaklı **Condea** projesine geçilmesine oy birliğiyle karar verilmiştir. Bu stratejik pivot, projenin başarısını olumlu etkilemiştir.
+
+#### 🎯 Sonraki Sprint (Sprint 2) Odağı
+*   Web tabanlı arayüzün (Softr/Bubble) tasarlanması.
+*   Kullanıcı paneli ve yorum yönetim ekranlarının front-end geliştirmesi.
 ---
