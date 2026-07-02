@@ -62,8 +62,8 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **10. GÜN** | 28 Haziran 2026 | Hem projenin, tüm ekip üyelerinin zihninde aynı şeyi ifade edip etmediğinin doğrulanabilmesi hem de zihinlerimizde zaten var olan proje tanımının tekrar edilip daha net bir hâle getirilebilmesi amacıyla bir toplantı gerçekleştirildi. Bu toplantıyla, hem projeye eklenmesi kararlaştırılan ana özelliklerin daha net bir çerçeveye sahip olması hem de ilerleyen süreçlerde projeye dahil edilebilecek ekstra özelliklerin, proje kapsamının dışına çıkma ihtimâlinin önüne geçilebilmesi amaçlandı. |
 | **11. GÜN** | 29 Haziran 2026 | Projenin sunum dosyası için bir ön hazırlık olarak taslaklar oluşturuldu. Sprint 1'in sonuna yaklaşılırken **Sprint Review** ve **Sprint Retrospective** toplantıları için net bir tarih belirlenmeye çalışılıyor. |
 | **12. GÜN** | 30 Haziran 2026 | **Sprint 1** tamamlanmadan önce, **Sprint 2** görevlerine erkenden başlanılmasına ve zamanın, daha efektif şekilde değerlendirilerek avantaja dönüştürülmesine yönelik görüşler bildirildi.|
-| **13. GÜN** | 1 Temmuz 2026 | Daily scrum açıklaması |
-| **14. GÜN** | 2 Temmuz 2026 | Daily scrum açıklaması |
+| **13. GÜN** | 1 Temmuz 2026 | **Product Backlog** panosunda güncellemeler yapıldı. |
+| **14. GÜN** | 2 Temmuz 2026 | **Sprint 1** ve **Sprint 2** panolarında güncellemeler yapıldı. |
 | **15. GÜN** | 3 Temmuz 2026 | Daily scrum açıklaması |
 | **16. GÜN** | 4 Temmuz 2026 | Daily scrum açıklaması |
 | **17. GÜN** | 5 Temmuz 2026 | Daily scrum açıklaması |
