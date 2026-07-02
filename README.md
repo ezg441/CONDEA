@@ -50,23 +50,23 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
-| **1. GÜN** | 19 Haziran 2026 | Başlangıç yayınından hemen sonra görev dağılımı ve rol tanımları üzerine görüşmelere başlandı. Karar süreçlerini hızlandırmak amacıyla tüm proje fikirlerinin kolektif bir listede bir araya getirilmesi sağlanarak ortak bir çalışma disiplini oluşturuldu. |
-| **2. GÜN** | 20 Haziran 2026 | Proje fikrini ve ekip rollerini konuşmak üzere bir toplantı saati belirlendi. |
-| **3. GÜN** | 21 Haziran 2026 | Projenin ne olduğu ve roller belirlendi. Product backlog'un ve ardından ilk sprintin de hazırlanması kararlaştırıldı. |
-| **4. GÜN** | 22 Haziran 2026 | Projenin teknik sürecinde zaman ve imkanlar açısından gerçekleştirilmesi zor noktalar tespit edildi. Bu sebeple süreç, proje fikri konusunda bir revize yapma veya tamamen yeni bir proje fikriyle baştan başlama şeklinde bir yöne evrildi. |
-| **5. GÜN** | 23 Haziran 2026 | Proje fikri değişikliğine gidilmesine karar verilerek **GoStock** projesinden vazgeçildi ve proje fikri **Condea** olarak netleştirildi. Geliştiricilerin fikirleri esas alınarak bu doğrultuda 24.06.2026 tarihinde product backlogun oluşturulması kararlaştırıldı. |
-| **6. GÜN** | 24 Haziran 2026 | **Product Backlog** ve **Sprint 1** panoları oluşturuldu, ilgili görevler atandı. Projeyi geliştirecek ekstra özellikler tartışıldı. Görevlerin zorluk dereceleri, geliştiricilerin fikirleri değerlendirilerek güncellenecek. |
-| **7. GÜN** | 25 Haziran 2026 | Make üzerinden hazırlanacak otonom sistemin web tabanlı bir MVP'ye dönüştürülebilmesi için iki farklı No-Code/Low-Code *(Softr ve Bubble)* yöntemi üzerinden altyapı araştırması yapıldı ve üzerinde konuşulmak üzere karşılaştırmalı rapor hazırlandı. *Make* üzerinde temel veri hattının kurgulanmasına dair çalışmalara başlandı. |
-| **8. GÜN** | 26 Haziran 2026 | Youtube için *"Watch Comments"* modülü çalıştırılarak yeni yorumların gerçek zamanlı izlenmesi sağlandı ve aynı yorumun tekrar işlenmesini önlemek için de *Google Sheets*'in *"Search Rows"* modülü kullanılarak bir akış filtresi *(Duplicate Filtering)* oluşturuldu. Bununla birlikte, *Gemini* modülünde gerçekleştirilen prompt mühendisliğiyle, gelen yorumun sınıflandırılabilmesi ve yoruma cevap olarak gönderilmek üzere iki farklı yanıt taslağı oluşturulabilmesi sağlandı. Yanıt taslakları, yorumların kategorisi gibi tüm çıktılar bir veri deposunda *(Google Sheets)* en uygun şekilde yapılandırılarak bir araya getirildi. Böylelikle, **Condea**'nın *Sprint 1* kapsamında hedeflenen temel veri hattı kurgulanmış oldu. |
-| **9. GÜN** | 27 Haziran 2026 | Kullanıcı ve yorum tablolarını birbirine bağlamak üzere *Airtable*'da uygun bir mimari kurma denemeleri yapıldı. *Make.com*'daki *YouTube* modülünde yapılan veri eşleştirme kontrolleri ve *YouTube Studio topluluk ayarları*nın esnetilmesiyle ilk sürümdeki *"gölge yanıt"* sorunu çözüldü. Otomasyonun ürettiği yanıtların kanala başarıyla iletilmesi sağlanarak veri hattının ilk hâli başarıyla doğrulandı. |
-| **10. GÜN** | 28 Haziran 2026 | Hem projenin, tüm ekip üyelerinin zihninde aynı şeyi ifade edip etmediğinin doğrulanabilmesi hem de zihinlerimizde zaten var olan proje tanımının tekrar edilip daha net bir hâle getirilebilmesi amacıyla bir toplantı gerçekleştirildi. Bu toplantıyla, hem projeye eklenmesi kararlaştırılan ana özelliklerin daha net bir çerçeveye sahip olması hem de ilerleyen süreçlerde projeye dahil edilebilecek ekstra özelliklerin, proje kapsamının dışına çıkma ihtimâlinin önüne geçilebilmesi amaçlandı. |
-| **11. GÜN** | 29 Haziran 2026 | Projenin sunum dosyası için bir ön hazırlık olarak taslaklar oluşturuldu. Sprint 1'in sonuna yaklaşılırken **Sprint Review** ve **Sprint Retrospective** toplantıları için net bir tarih belirlenmeye çalışılıyor. |
-| **12. GÜN** | 30 Haziran 2026 | **Sprint 1** tamamlanmadan önce, **Sprint 2** görevlerine erkenden başlanılmasına ve zamanın, daha efektif şekilde değerlendirilerek avantaja dönüştürülmesine yönelik görüşler bildirildi.|
-| **13. GÜN** | 1 Temmuz 2026 | **Product Backlog** panosunda güncellemeler yapıldı. |
-| **14. GÜN** | 2 Temmuz 2026 | **Sprint 1** ve **Sprint 2** panolarında güncellemeler yapıldı. |
-| **15. GÜN** | 3 Temmuz 2026 | Daily scrum açıklaması |
-| **16. GÜN** | 4 Temmuz 2026 | Daily scrum açıklaması |
-| **17. GÜN** | 5 Temmuz 2026 | Daily scrum açıklaması |
+| **1. GÜN** | 19 Haziran 2026 | **Dün:** Başlangıç yayını izlendi.<br>**Bugün:** Karar süreçlerini hızlandırmak amacıyla tüm fikirler kolektif bir listede toplanacak; rol dağılımı konuşulacak.<br>**Engel:** Yok. |
+| **2. GÜN** | 20 Haziran 2026 | **Dün:** Proje fikirleri havuzu oluşturuldu.<br>**Bugün:** Ekip rollerini ve nihai proje fikrini netleştirmek üzere bir araya gelinecek.<br>**Engel:** Yok. |
+| **3. GÜN** | 21 Haziran 2026 | **Dün:** Proje tanımı *(GoStock)* ve roller belirlendi.<br>**Bugün:** *Product Backlog* ve ilk sprintin iskelet çalışmaları başlatılacak.<br>**Engel:** Yok. |
+| **4. GÜN** | 22 Haziran 2026 | **Dün:** Teknik gereksinimler ve zaman kısıtları analiz edildi.<br>**Bugün:** Proje teknik olarak çok zorlandığı için fikir revizyonu veya yeni fikre geçiş olanakları değerlendirilecek.<br>**Engel:** 🚨 **Kritik:** Mevcut fikir mevcut imkanlarla uyuşmuyor. |
+| **5. GÜN** | 23 Haziran 2026 | **Dün:** *GoStock* projesinden vazgeçildi, yeni fikir *Condea* olarak netleşti.<br>**Bugün:** Geliştirici fikirleri doğrultusunda *Product Backlog* taslağı hazırlanacak.<br>**Engel:** Yok. |
+| **6. GÜN** | 24 Haziran 2026 | **Dün:** Yeni projenin ana hatları belirlendi.<br>**Bugün:** *Product Backlog* ve *Sprint 1* panoları kurulacak, görev atamaları ve zorluk dereceleri güncellenecek.<br>**Engel:** Yok. |
+| **7. GÜN** | 25 Haziran 2026 | **Dün:** Görev atamaları tamamlandı.<br>**Bugün:** MVP altyapısı için *Softr/Bubble* karşılaştırma raporu hazırlanacak. *Make* üzerinde veri hattı mimarisine başlanacak.<br>**Engel:** Yok. |
+| **8. GÜN** | 26 Haziran 2026 | **Dün:** Altyapı araştırması tamamlandı.<br>**Bugün:** *YouTube Watch Comments*, *Google Sheets Duplicate Filtering* ve *Gemini* prompt entegrasyonu tamamlanarak temel veri hattı kurulacak.<br>**Engel:** Yok. |
+| **9. GÜN** | 27 Haziran 2026 | **Dün:** Temel veri hattı kuruldu.<br>**Bugün:** *Airtable* veri mimarisi denenecek. *YouTube Studio* ayarları esnetilerek kanala yanıt iletim testleri yapılacak.<br>**Engel:** 🚧 *YouTube* tarafında *"gölge yanıt"* sorunu var. |
+| **10. GÜN** | 28 Haziran 2026 | **Dün:** Gölge yanıt sorunu çözüldü ve veri hattı başarıyla doğrulandı.<br>**Bugün:** Ekip içi senkronizasyonu korumak ve kapsamın dışına çıkılmasını *(feature creep)* önlemek için hizalanma toplantısı yapılacak.<br>**Engel:** Kapsamın çok genişleme riski (Önlem alınıyor). |
+| **11. GÜN** | 29 Haziran 2026 | **Dün:** Proje kapsam sınırları netleştirildi.<br>**Bugün:** Sunum dosyası için ön taslaklar oluşturulacak. *Sprint Review* ve *Retrospective* tarihleri planlanacak.<br>**Engel:** Yok. |
+| **12. GÜN** | 30 Haziran 2026 | **Dün:** Sunum taslakları tamamlandı.<br>**Bugün:** *Sprint 1* işleri erken bittiği için zamanı verimli kullanmak adına *Sprint 2* görevlerine erkenden başlanması değerlendirilecek.<br>**Engel:** Yok. |
+| **13. GÜN** | 1 Temmuz 2026 | **Dün:** *Sprint 2* görevleri ilgili panolara eklendi.<br>**Bugün:** *Product Backlog* panosunda genel iyileştirmeler ve güncellemeler yapılacak.<br>**Engel:** Yok. |
+| **14. GÜN** | 2 Temmuz 2026 | **Dün:** *Product Backlog* güncellendi.<br>**Bugün:** *Sprint 1* kapatılmadan önce *Sprint 1* ve *Sprint 2* panolarının son senkronizasyon kontrolleri yapılacak.<br>**Engel:** Yok. |
+| **15. GÜN** | 3 Temmuz 2026 | **Dün:** XXX<br>**Bugün:** XXX<br>**Engel:** Yok. |
+| **16. GÜN** | 4 Temmuz 2026 | **Dün:** XXX<br>**Bugün:** XXX<br>**Engel:** Yok. |
+| **17. GÜN** | 5 Temmuz 2026 | **Dün:** XXX<br>**Bugün:** XXX<br>**Engel:** Yok. |
 
 ### Sprint Board Durumu
 #### 1. Ekran Görüntüsü (24.06.2026)
@@ -113,20 +113,20 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
-| **18. GÜN** | 6 Temmuz 2026 | [X] görevini tamamlamıştık, bugün [Y] üzerinde çalışacağız ve şu an önümüzde herhangi bir engel [Z] bulunmuyor. |
-| **19. GÜN** | 7 Temmuz 2026 | Daily scrum açıklaması |
-| **20. GÜN** | 8 Temmuz 2026 | Daily scrum açıklaması |
-| **21. GÜN** | 9 Temmuz 2026 | Daily scrum açıklaması |
-| **22. GÜN** | 10 Temmuz 2026 | Daily scrum açıklaması |
-| **23. GÜN** | 11 Temmuz 2026 | Daily scrum açıklaması |
-| **24. GÜN** | 12 Temmuz 2026 | Daily scrum açıklaması |
-| **25. GÜN** | 13 Temmuz 2026 | Daily scrum açıklaması |
-| **26. GÜN** | 14 Temmuz 2026 | Daily scrum açıklaması |
-| **27. GÜN** | 15 Temmuz 2026 | Daily scrum açıklaması |
-| **28. GÜN** | 16 Temmuz 2026 | Daily scrum açıklaması |
-| **29. GÜN** | 17 Temmuz 2026 | Daily scrum açıklaması |
-| **30. GÜN** | 18 Temmuz 2026 | Daily scrum açıklaması |
-| **31. GÜN** | 19 Temmuz 2026 | Daily scrum açıklaması |
+| **18. GÜN** | 6 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **19. GÜN** | 7 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **20. GÜN** | 8 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **21. GÜN** | 9 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **22. GÜN** | 10 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **23. GÜN** | 11 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **24. GÜN** | 12 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **25. GÜN** | 13 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **26. GÜN** | 14 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **27. GÜN** | 15 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **28. GÜN** | 16 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **29. GÜN** | 17 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **30. GÜN** | 18 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **31. GÜN** | 19 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
 
 ### Sprint Board Durumu
 #### 1. Ekran Görüntüsü (XX.XX.XXXX)
@@ -169,20 +169,20 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
-| **32. GÜN** | 20 Temmuz 2026 | [X] görevini tamamlamıştık, bugün [Y] üzerinde çalışacağız ve şu an önümüzde herhangi bir engel [Z] bulunmuyor. |
-| **33. GÜN** | 21 Temmuz 2026 | Daily scrum açıklaması |
-| **34. GÜN** | 22 Temmuz 2026 | Daily scrum açıklaması |
-| **35. GÜN** | 23 Temmuz 2026 | Daily scrum açıklaması |
-| **36. GÜN** | 24 Temmuz 2026 | Daily scrum açıklaması |
-| **37. GÜN** | 25 Temmuz 2026 | Daily scrum açıklaması |
-| **38. GÜN** | 26 Temmuz 2026 | Daily scrum açıklaması |
-| **39. GÜN** | 27 Temmuz 2026 | Daily scrum açıklaması |
-| **40. GÜN** | 28 Temmuz 2026 | Daily scrum açıklaması |
-| **41. GÜN** | 29 Temmuz 2026 | Daily scrum açıklaması |
-| **42. GÜN** | 30 Temmuz 2026 | Daily scrum açıklaması |
-| **43. GÜN** | 31 Temmuz 2026 | Daily scrum açıklaması |
-| **44. GÜN** | 1 Ağustos 2026 | Daily scrum açıklaması |
-| **45. GÜN** | 2 Ağustos 2026 | Daily scrum açıklaması |
+| **32. GÜN** | 20 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **33. GÜN** | 21 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **34. GÜN** | 22 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **35. GÜN** | 23 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **36. GÜN** | 24 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **37. GÜN** | 25 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **38. GÜN** | 26 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **39. GÜN** | 27 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **40. GÜN** | 28 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **41. GÜN** | 29 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **42. GÜN** | 30 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **43. GÜN** | 31 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **44. GÜN** | 1 Ağustos 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
+| **45. GÜN** | 2 Ağustos 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
 
 ### Sprint Board Durumu
 #### 1. Ekran Görüntüsü (XX.XX.XXXX)
