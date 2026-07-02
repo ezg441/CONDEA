@@ -77,14 +77,12 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 #### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
+#### 4. Ekran Görüntüsü (XX.XX.XXXX)
+
 ### Ürün Durumu
 #### 1. Ekran Görüntüsü (26.06.2026)
 <img width="1289" height="618" alt="resim" src="https://github.com/user-attachments/assets/e8116345-bb0b-449f-a36c-4560801e1079" />
 <img width="1770" height="649" alt="resim" src="https://github.com/user-attachments/assets/da430217-fd83-4974-94c2-8a08b2fad94f" />
-
-#### 2. Ekran Görüntüsü (XX.XX.XXXX)
-
-#### 3. Ekran Görüntüsü (XX.XX.XXXX)
 
 ### Sprint Review
 * **Alınan Kararlar**:
