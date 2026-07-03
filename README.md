@@ -143,7 +143,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 ### 📝 Sprint Notları
 
 #### 📅 Genel Bilgiler
-*   **Tarih Aralığı:** 19 Haziran 2026 - 5 Temmuz 2026 (14 Gün)
+*   **Tarih Aralığı:** 19 Haziran 2026 - 5 Temmuz 2026 (17 Gün)
 *   **Sprint Hedefi:** Temel otonom veri hattının çalışır hale getirilmesi (MVP)
 *   **Sprint Durumu:** Başarıyla Tamamlandı (Hatta Sprint 2 görevlerine erken başlandı)
 
