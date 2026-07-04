@@ -53,7 +53,21 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 * **Kanal Yöneticileri**: Topluluk etkileşimlerini analiz edip, kanal stratejisini izleyici geri bildirimlerine göre şekillendirmeyi hedefleyen profesyoneller.
 
 ### Product Backlog
-[https://yzta.slack.com/lists/T02LKGXV98C/F0BC0E7CD8U]
+
+<table>
+  <tr>
+    <td>
+      <strong>📋 Nasıl Yönetiliyor?</strong><br><br>
+      <i>Tüm kullanıcı hikayeleri, görevler ve önceliklendirme <b>Slack listeleri</b> üzerinden yönetilmektedir.</i>
+      <br><br>
+      <a href="https://yzta.slack.com/lists/T02LKGXV98C/F0BC0E7CD8U">
+        <img src="https://img.shields.io/badge/Product%20Backlog%20Panosuna%20Git-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 </details>
 
 ---
@@ -65,7 +79,18 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 </summary>
 
-[https://yzta.slack.com/lists/T02LKGXV98C/F0BBQ5E352P]
+<table>
+  <tr>
+    <td>
+      <strong>🏃 Sprint Nasıl Yönetiliyor?</strong><br><br>
+      <i>Sprint 1 kapsamındaki görevler ve ilerleme durumu <b>Slack listeleri</b> üzerinden takip edilmektedir.</i>
+      <br><br>
+      <a href="https://yzta.slack.com/lists/T02LKGXV98C/F0BBQ5E352P">
+        <img src="https://img.shields.io/badge/Sprint%201%20Panosuna%20Git-Slack-2EB67D?style=for-the-badge&logo=slack&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Backlog Düzeni ve Story Seçimleri
 
@@ -197,7 +222,18 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 </summary>
 
-[https://yzta.slack.com/lists/T02LKGXV98C/F0BBUDXPUES]
+<table>
+  <tr>
+    <td>
+      <strong>🏃 Sprint Nasıl Yönetiliyor?</strong><br><br>
+      <i>Sprint 2 kapsamındaki görevler ve ilerleme durumu <b>Slack listeleri</b> üzerinden takip edilmektedir.</i>
+      <br><br>
+      <a href="https://yzta.slack.com/lists/T02LKGXV98C/F0BBUDXPUES">
+        <img src="https://img.shields.io/badge/Sprint%202%20Panosuna%20Git-Slack-2EB67D?style=for-the-badge&logo=slack&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Backlog Düzeni ve Story Seçimleri
 
@@ -320,7 +356,18 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 </summary>
 
-[https://yzta.slack.com/lists/T02LKGXV98C/F0BBWGD7SQ2]
+<table>
+  <tr>
+    <td>
+      <strong>🏃 Sprint Nasıl Yönetiliyor?</strong><br><br>
+      <i>Sprint 3 kapsamındaki görevler ve ilerleme durumu <b>Slack listeleri</b> üzerinden takip edilmektedir.</i>
+      <br><br>
+      <a href="https://yzta.slack.com/lists/T02LKGXV98C/F0BBWGD7SQ2">
+        <img src="https://img.shields.io/badge/Sprint%203%20Panosuna%20Git-Slack-2EB67D?style=for-the-badge&logo=slack&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Backlog Düzeni ve Story Seçimleri
 
