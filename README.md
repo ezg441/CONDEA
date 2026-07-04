@@ -38,7 +38,7 @@
 ### Ürün İsmi
 Condea
 ### Ürün Açıklaması
-Condea, YouTube içerik üreticilerinin topluluklarından gelen değerli içerik fikirlerini kaçırmamasını sağlayan akıllı bir otomasyon sistemidir. YZTA-2026 BOOTCAMP kapsamında geliştirilen bu proje, YouTube yorumlarını otomatik olarak izler, Yapay Zeka (Google Gemini) desteğiyle "içerik tavsiyesi" taşıyan yorumları ayırt eder ve bu verileri düzenli bir rapor halinde kanal sahibine iletir. Condea, içerik üreticilerinin takipçileriyle kurduğu bağı güçlendirirken, içerik planlama sürecini veri odaklı bir hale getirir.
+**Condea**, YouTube içerik üreticilerinin topluluklarından gelen değerli içerik fikirlerini kaçırmamasını sağlayan *akıllı bir otomasyon sistemidir*. *YZTA-2026 BOOTCAMP* kapsamında geliştirilen bu proje, YouTube yorumlarını otomatik olarak izler, Yapay Zeka (Google Gemini) desteğiyle "içerik tavsiyesi" taşıyan yorumları ayırt eder ve bu verileri düzenli bir rapor halinde kanal sahibine iletir. Condea, içerik üreticilerinin takipçileriyle kurduğu bağı güçlendirirken, içerik planlama sürecini veri odaklı bir hale getirir.
 
 ### Ürün Özellikleri
 Condea projesinin temel fonksiyonları şunlardır:
@@ -57,7 +57,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 <table>
   <tr>
     <td>
-      <strong>📋 Nasıl Yönetiliyor?</strong><br><br>
+      <strong>📋 Süreç Nasıl Yönetiliyor?</strong><br><br>
       <i>Tüm kullanıcı hikayeleri, görevler ve önceliklendirme <b>Slack listeleri</b> üzerinden yönetilmektedir.</i>
       <br><br>
       <a href="https://yzta.slack.com/lists/T02LKGXV98C/F0BC0E7CD8U">
