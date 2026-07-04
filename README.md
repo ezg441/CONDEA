@@ -9,16 +9,32 @@
 
 ---
 
-## Takım Elemanları ve Rol Dağılımı
-* **Ezgisu Badak**: Product Owner 
-* **Ufuk Demir**: Scrum Master 
-* **Ayşe Dilara Baysal**: Team Member / Developer
-* **Feyzanur Karatay**: Team Member / Developer
-* **Furkan Çakı**: Team Member / Developer
+<details>
+<summary>
+
+## Ekip Üyeleri ve Rol Dağılımı
+
+</summary>
+
+| Ekip Üyesi | Rol | GitHub | LinkedIn |
+| :--- | :--- | :---: | :---: |
+| **Ufuk Demir** | ⏱️ `Scrum Master` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ufukdemiir) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ufukdemiir/) |
+| **Ezgisu Badak** | 👑 `Product Owner` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ezg441) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/#) |
+| **Ayşe Dilara Baysal** | 💻 `Developer` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aysedilarabaysal) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayşedilarabaysal/) |
+| **Feyzanur Karatay** | 💻 `Developer` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/#) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/#) |
+| **Furkan Çakı** | 💻 `Developer` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/#) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/#) |
+
+</details>
 
 ---
 
+<details>
+<summary>
+
 ## Ürün Bilgileri
+
+</summary>
+
 ### Ürün İsmi
 Condea
 ### Ürün Açıklaması
@@ -27,7 +43,7 @@ Condea, YouTube içerik üreticilerinin topluluklarından gelen değerli içerik
 ### Ürün Özellikleri
 Condea projesinin temel fonksiyonları şunlardır:
 * **Akıllı Yorum İzleme**: YouTube kanalından gelen tüm yorumlar anlık olarak yakalanır ve mükerrer (duplicate) kayıtlar elenerek temiz bir veri akışı sağlanır
-* **İçerik İsteği Analizi**: Google Gemini entegrasyonu sayesinde, yorumların içerik tavsiyesi veya içerik isteği içerip içermediği otomatik olarak tespit edilir.
+* **İçerik İsteği Analizi**: Google Gemini entegrasyonu sayesinde, yorumların içerik tavsiyesi veya içerik isteği içerip ichermediği otomatik olarak tespit edilir.
 * **Merkezi Veri Yönetimi**: İşlenen tüm yorumlar; metin, beğeni sayısı ve tarih bilgileriyle birlikte Google Sheets üzerinde kurumsal bir tablo yapısında depolanır.
 * **Otomatik Raporlama**: Sistem, periyodik olarak (haftalık/günlük) veri tabanını analiz eder ve en çok beğeni alan "içerik tavsiyelerini" derleyerek şık bir HTML e-posta tasarımı ile kanal sahibine raporlar.
 
@@ -38,10 +54,16 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 ### Product Backlog
 [https://yzta.slack.com/lists/T02LKGXV98C/F0BC0E7CD8U]
+</details>
 
 ---
 
-## SPRINT 1️⃣
+<details>
+<summary>
+
+## Sprint 1️⃣
+
+</summary>
 
 [https://yzta.slack.com/lists/T02LKGXV98C/F0BBQ5E352P]
 
@@ -163,10 +185,17 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 #### 🎯 Sonraki Sprint (Sprint 2) Odağı
 *   Gemini entegrasyonuyla özelleştirilebilir niyet ve kategori analizi motorunun geliştirilmesi.
 *   Dinamik içerik destekli, profesyonel Gmail HTML raporlama şablonlarının tasarlanması ve devreye alınması.
-  
+
+</details>
+
 ---
 
-## SPRINT 2️⃣
+<details>
+<summary>
+
+## Sprint 2️⃣
+
+</summary>
 
 [https://yzta.slack.com/lists/T02LKGXV98C/F0BBUDXPUES]
 
@@ -279,9 +308,17 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 #### 🎯 Sonraki Sprint (Sprint 2) Odağı
 *   Web tabanlı arayüzün (Softr/Bubble) tasarlanması.
 *   Kullanıcı paneli ve yorum yönetim ekranlarının front-end geliştirmesi.
+
+</details>
+
 ---
 
-## SPRINT 3️⃣
+<details>
+<summary>
+
+## Sprint 3️⃣
+
+</summary>
 
 [https://yzta.slack.com/lists/T02LKGXV98C/F0BBWGD7SQ2]
 
@@ -394,4 +431,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 #### 🎯 Sonraki Sprint (Sprint 2) Odağı
 *   Web tabanlı arayüzün (Softr/Bubble) tasarlanması.
 *   Kullanıcı paneli ve yorum yönetim ekranlarının front-end geliştirmesi.
+
+</details>
+
 ---
