@@ -237,7 +237,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 ### Backlog Düzeni ve Story Seçimleri
 
-*[(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)]*
+*[Backlog oluşturulurken nasıl bir düzenin esas alındığı, görev dağılımlarının nasıl yapıldığı anlatılır. Örneğin, görevlerin önceliği, zorluk seviyesi vs.]*
 
 ### Daily Scrum (14 GÜN)
 
@@ -371,7 +371,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 ### Backlog Düzeni ve Story Seçimleri
 
-*[(Backlog oluşturulurken nasıl bir düzenin esas alındığı anlatılıyor. Örneğin, görevlerin önceliği, zorluk seviyesi vs.)]*
+*[Backlog oluşturulurken nasıl bir düzenin esas alındığı, görev dağılımlarının nasıl yapıldığı anlatılır. Örneğin, görevlerin önceliği, zorluk seviyesi vs.]*
 
 ### Daily Scrum (14 GÜN)
 
