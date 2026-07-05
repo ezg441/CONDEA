@@ -116,7 +116,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 | **14. GÜN** | 2 Temmuz 2026 | **Dün:** *Product Backlog* güncellendi.<br>**Bugün:** *Sprint 1* kapatılmadan önce *Sprint 1* ve *Sprint 2* panolarının son senkronizasyon kontrolleri yapılacak.<br>**Engel:** Yok. |
 | **15. GÜN** | 3 Temmuz 2026 | **Dün:** *Sprint 1* ve *2* panoları senkronize edildi.<br>**Bugün:** Sprint 1'in kapanışı için *Review* ve *Retrospective* toplantıları yapılacak. <br>**Engel:** Yok. |
 | **16. GÜN** | 4 Temmuz 2026 | **Dün:** *Review* ve *Retrospective* toplantıları yapıldı.<br>**Bugün:** Kapsamlı bir repository düzenlemesi yapılarak Sprint 1 kapatılacak.<br>**Engel:** Yok. |
-| **17. GÜN** | 5 Temmuz 2026 | **Dün:** XXX<br>**Bugün:** XXX<br>**Engel:** Yok. |
+| **17. GÜN** | 5 Temmuz 2026 | **Dün:** Repo düzenlenerek Sprint 1 kapatıldı.<br>**Bugün:** *Sprint 2* görevleri planlandı ve board'a eklendi. Tamamlanması hedeflenen işlerle ilgili geliştirme sürecine başlanacak.<br>**Engel:** Yok. |
 
 ---
 
