@@ -54,6 +54,8 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 
 ### Product Backlog
 
+Proje kapsamındaki görevlere dair tüm bilgiler göz önünde bulundurularak bu kısım tekrar güncellenecek. Özellikle **toplam puan bilgisi** unutulmamalı. 
+
 <table>
   <tr>
     <td>
@@ -121,17 +123,14 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 ---
 
 ### Sprint Board Durumu
-#### 1. Ekran Görüntüsü (24.06.2026)
-<img width="1635" height="736" alt="resim" src="https://github.com/user-attachments/assets/2c4a73f7-dd66-4564-b496-be1050238c4a" />
+#### 1. Ekran Görüntüsü  
+<img width="1600" height="730" alt="resim" src="https://github.com/user-attachments/assets/0f8fd928-7b28-4ea3-ba66-173d16ac2f1d" />
 
-#### 2. Ekran Görüntüsü (26.06.2026)
-<img width="1598" height="738" alt="resim" src="https://github.com/user-attachments/assets/a3c00d92-60a7-4baf-8a26-4408d644a0a2" />
+#### 2. Ekran Görüntüsü  
+<img width="1601" height="727" alt="resim" src="https://github.com/user-attachments/assets/46a987d0-3be1-4654-97a7-baa43f09fe7c" />
 
-#### 3. Ekran Görüntüsü (02.07.2026)
-<img width="1493" height="732" alt="resim" src="https://github.com/user-attachments/assets/a2e2b942-3c6e-4df5-9433-42fc375983e2" />
-
-#### 4. Ekran Görüntüsü (02.07.2026)
-<img width="1397" height="777" alt="resim" src="https://github.com/user-attachments/assets/6bc706b2-5e01-44c8-b126-5479e439a8e0" />
+#### 3. Ekran Görüntüsü  
+<img width="1597" height="727" alt="resim" src="https://github.com/user-attachments/assets/4e71b367-6c59-41ae-94ec-2043911b62eb" />
 
 ---
 
@@ -261,11 +260,11 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 ---
 
 ### Sprint Board Durumu
-#### 1. Ekran Görüntüsü (XX.XX.XXXX)
+#### 1. Ekran Görüntüsü  
 
-#### 2. Ekran Görüntüsü (XX.XX.XXXX)
+#### 2. Ekran Görüntüsü  
 
-#### 3. Ekran Görüntüsü (XX.XX.XXXX)
+#### 3. Ekran Görüntüsü  
 
 ---
 
@@ -395,11 +394,11 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 ---
 
 ### Sprint Board Durumu
-#### 1. Ekran Görüntüsü (XX.XX.XXXX)
+#### 1. Ekran Görüntüsü  
 
-#### 2. Ekran Görüntüsü (XX.XX.XXXX)
+#### 2. Ekran Görüntüsü  
 
-#### 3. Ekran Görüntüsü (XX.XX.XXXX)
+#### 3. Ekran Görüntüsü  
 
 ---
 
