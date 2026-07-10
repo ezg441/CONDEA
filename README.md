@@ -69,6 +69,14 @@ Proje kapsamındaki görevlere dair tüm bilgiler göz önünde bulundurularak b
   </tr>
 </table>
 
+### Sprint Takvimi
+
+| Durum | Sprint | Başlangıç Tarihi | Bitiş Tarihi |
+| :---: | :--- | :---: | :---: |
+| ✅ | **Sprint 1** | 19 Haziran | 5 Temmuz |
+| 🚀 | **Sprint 2** | 6 Temmuz | 19 Temmuz |
+| ⏳ | **Sprint 3** | 20 Temmuz | 2 Ağustos |
+
 
 </details>
 
@@ -99,6 +107,12 @@ Proje kapsamındaki görevlere dair tüm bilgiler göz önünde bulundurularak b
 Öncelikle, ekipteki geliştiricilerin fikirleri esas alınarak, projenin hayata geçirilebilmesi için mutlaka tamamlanması gereken ana görevler ve alt görevler belirlendi. Henüz ilk sprint olması ve ekibin iş potansiyelinin tam olarak bilinememesi sebebiyle ilk sprint için yaklaşık üçte birlik bir görev yoğunluğu *(Süreç toplamda üç sprintten oluştuğu için)* mantıklı bulundu ve görevler, bu oranı karşılayacak şekilde sırasıyla eklendi. Sprint 1'de gösterilen ekip performansına bağlı olarak diğer sprintlerde görevlerin artırılmasına veya azaltılmasına karar verilebilir. İlaveten, Sprint 1 için yapılan görev planlamasının dışına çıkılarak sonraki sprintlerin görevleri erkene alınabilir.
 
 ### Daily Scrum (17 GÜN)
+
+Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
+
+[![Ekran Görüntüsü 1](https://img.shields.io/badge/Ekran_Görüntüsü-1-24292E?style=for-the-badge)](ekran_goruntuleri/daily-1.png)
+[![Ekran Görüntüsü 2](https://img.shields.io/badge/Ekran_Görüntüsü-2-24292E?style=for-the-badge)](ekran_goruntuleri/daily-2.png)
+[![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran_goruntuleri/daily-3.png)
 
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
@@ -240,6 +254,12 @@ Proje kapsamındaki görevlere dair tüm bilgiler göz önünde bulundurularak b
 
 ### Daily Scrum (14 GÜN)
 
+Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
+
+[![Ekran Görüntüsü 1](https://img.shields.io/badge/Ekran_Görüntüsü-1-24292E?style=for-the-badge)](ekran_goruntuleri/daily-1.png)
+[![Ekran Görüntüsü 2](https://img.shields.io/badge/Ekran_Görüntüsü-2-24292E?style=for-the-badge)](ekran_goruntuleri/daily-2.png)
+[![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran_goruntuleri/daily-3.png)
+
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
 | **18. GÜN** | 6 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
@@ -373,6 +393,12 @@ Proje kapsamındaki görevlere dair tüm bilgiler göz önünde bulundurularak b
 *[Backlog oluşturulurken nasıl bir düzenin esas alındığı, görev dağılımlarının nasıl yapıldığı anlatılır. Örneğin, görevlerin önceliği, zorluk seviyesi vs.]*
 
 ### Daily Scrum (14 GÜN)
+
+Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
+
+[![Ekran Görüntüsü 1](https://img.shields.io/badge/Ekran_Görüntüsü-1-24292E?style=for-the-badge)](ekran_goruntuleri/daily-1.png)
+[![Ekran Görüntüsü 2](https://img.shields.io/badge/Ekran_Görüntüsü-2-24292E?style=for-the-badge)](ekran_goruntuleri/daily-2.png)
+[![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran_goruntuleri/daily-3.png)
 
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
