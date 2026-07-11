@@ -115,6 +115,8 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 [![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran-goruntuleri/sprint-1/daily-scrum/Sprint-1-Daily-Scrum-(SS3).png)
 [![Ekran Görüntüsü 4](https://img.shields.io/badge/Ekran_Görüntüsü-4-24292E?style=for-the-badge)](ekran-goruntuleri/sprint-1/daily-scrum/Sprint-1-Daily-Scrum-(SS4).png)
 
+---
+
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
 | **1. GÜN** | 19 Haziran 2026 | **Dün:** Başlangıç yayını izlendi.<br>**Bugün:** Karar süreçlerini hızlandırmak amacıyla tüm fikirler kolektif bir listede toplanacak; rol dağılımı konuşulacak.<br>**Engel:** Yok. |
@@ -262,6 +264,8 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 [![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran_goruntuleri/daily-3.png)
 [![Ekran Görüntüsü 4](https://img.shields.io/badge/Ekran_Görüntüsü-4-24292E?style=for-the-badge)](ekran_goruntuleri/daily-4.png)
 
+---
+
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
 | **18. GÜN** | 6 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
@@ -402,6 +406,8 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 [![Ekran Görüntüsü 2](https://img.shields.io/badge/Ekran_Görüntüsü-2-24292E?style=for-the-badge)](ekran_goruntuleri/daily-2.png)
 [![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran_goruntuleri/daily-3.png)
 [![Ekran Görüntüsü 4](https://img.shields.io/badge/Ekran_Görüntüsü-4-24292E?style=for-the-badge)](ekran_goruntuleri/daily-4.png)
+
+---
 
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
