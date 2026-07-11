@@ -110,10 +110,10 @@ Proje kapsamındaki görevlere dair tüm bilgiler göz önünde bulundurularak b
 
 Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 
-[![Ekran Görüntüsü 1](https://img.shields.io/badge/Ekran_Görüntüsü-1-24292E?style=for-the-badge)](ekran_goruntuleri/daily-1.png)
-[![Ekran Görüntüsü 2](https://img.shields.io/badge/Ekran_Görüntüsü-2-24292E?style=for-the-badge)](ekran_goruntuleri/daily-2.png)
-[![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran_goruntuleri/daily-3.png)
-[![Ekran Görüntüsü 4](https://img.shields.io/badge/Ekran_Görüntüsü-4-24292E?style=for-the-badge)](ekran_goruntuleri/daily-4.png)
+[![Ekran Görüntüsü 1](https://img.shields.io/badge/Ekran_Görüntüsü-1-24292E?style=for-the-badge)](ekran-goruntuleri/sprint-1/daily-scrum/Sprint-1-Daily-Scrum-(SS1).png)
+[![Ekran Görüntüsü 2](https://img.shields.io/badge/Ekran_Görüntüsü-2-24292E?style=for-the-badge)](ekran-goruntuleri/sprint-1/daily-scrum/Sprint-1-Daily-Scrum-(SS2).png)
+[![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran-goruntuleri/sprint-1/daily-scrum/Sprint-1-Daily-Scrum-(SS3).png)
+[![Ekran Görüntüsü 4](https://img.shields.io/badge/Ekran_Görüntüsü-4-24292E?style=for-the-badge)](ekran-goruntuleri/sprint-1/daily-scrum/Sprint-1-Daily-Scrum-(SS4).png)
 
 | Gün | Tarih | Açıklama |
 | :--- | :--- | :--- |
