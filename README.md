@@ -75,13 +75,13 @@ Tüm proje süreci boyunca gerçekleştirilmesi planlanan **toplam görev sayıs
 
 * **Sprint 1 — Temel Oluşturma:** Tüm süreci başlatacak ve geliştirilerek hedeflenen hâle getirilecek bir prototip.
 
-  **Amaç:** ....................................
+  **Amaç:** Sistemin uçtan uca çalışan temel veri hattının kurulması; YouTube yorumlarının otomatik yakalanması, mükerrer kayıtların engellenmesi, Gemini ile temel sınıflandırmanın (içerik isteği tespiti) yapılması ve işlenen verilerin Google Sheets veri deposuna kaydedilmesi.
 
   Bu sprintte gerçekleştirilmesi hedeflenen görevler, **toplam 6 adet** ve **toplam 20 puandır**.
 
 * **Sprint 2 — Yapay Zeka Entegrasyonu:** Yapay zeka öğeleriyle donatılmış ve stabil şekilde çalışan bir ürün.
 
-  **Amaç:** ....................................  
+  **Amaç:** Yapay zekâ katmanının derinleştirilerek ürünün stabil hâle getirilmesi; yorumların duygu, niyet ve özel konu bazında çok etiketli sınıflandırılması, reklam ve spam içeriklerin elenmesi, çift dilli ve iki tonlu yanıt taslaklarının üretilmesi ile kurumsal HTML raporlama şablonunun tasarlanması.
 
   Bu sprintte gerçekleştirilmesi hedeflenen görevler, **toplam 8 adet** ve **toplam 24 puandır**.
 
