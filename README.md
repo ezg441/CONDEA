@@ -223,8 +223,12 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 ---
 
 ### Ürün Durumu
-#### 1. Ekran Görüntüsü (03.07.2026)
+#### 1. Ekran Görüntüsü
+
 <img width="930" height="312" alt="resim" src="https://github.com/user-attachments/assets/9b6384b9-e47d-4b93-a573-97aed9605fdc" />
+
+#### 2. Ekran Görüntüsü
+
 <img width="921" height="372" alt="resim" src="https://github.com/user-attachments/assets/7b46fada-148e-4ef0-8dc5-65bf5a0f9885" />
 
 
@@ -353,11 +357,15 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 ---
 
 ### Ürün Durumu
-#### 1. Ekran Görüntüsü (XX.XX.XXXX)
+#### 1. Ekran Görüntüsü
 
-#### 2. Ekran Görüntüsü (XX.XX.XXXX)
+<img width="1802" height="356" alt="resim" src="https://github.com/user-attachments/assets/13efbfab-109c-45f0-9eaf-7a5920baa47d" />
 
-#### 3. Ekran Görüntüsü (XX.XX.XXXX)
+
+#### 2. Ekran Görüntüsü
+
+<img width="1512" height="581" alt="resim" src="https://github.com/user-attachments/assets/48e6b639-aa36-41fa-9b94-a1d0778ee7ce" />
+
 
 ---
 
