@@ -71,11 +71,11 @@ Proje toplam **3 sprint** olarak planlanmıştır ve sprint takvimi aşağıda y
 
 Gerçekleştirilmesi planlanan **toplam görev sayısı 32** _(User Story)_ ve **tüm görevlerin toplam puanı 117**'dir. _(User Story)_
 
-* **Sprint 1 — Temel Oluşturma:** Tüm süreci başlatacak ve geliştirilerek hedeflenen hâle getirilecek prototipin ortaya konması. Bu sprintte gerçekleştirilmesi hedeflenen görevler, **toplam 20 puandır**.
+* **Sprint 1 — Temel Oluşturma:** Tüm süreci başlatacak ve geliştirilerek hedeflenen hâle getirilecek prototipin ortaya konması. Bu sprintte gerçekleştirilmesi hedeflenen görevler, **toplam 6 adet** ve **toplam 20 puandır**.
 
-* **Sprint 2 — Yapay Zeka Entegrasyonu:** Yapay zeka öğeleri ile entegre edilerek prototipin daha iyi bir seviyeye getirilmesi. Bu sprintte gerçekleştirilmesi hedeflenen görevler, **toplam 24 puandır**.
+* **Sprint 2 — Yapay Zeka Entegrasyonu:** Yapay zeka öğeleri ile entegre edilerek prototipin daha iyi bir seviyeye getirilmesi. Bu sprintte gerçekleştirilmesi hedeflenen görevler, **toplam 8 adet** ve **toplam 24 puandır**.
 
-* **Sprint 3 — Teslimat Hazırlığı:** Son kontrollerin ve deneyim iyileştirmelerinin yapılması; dokümantasyonun, sunum dosyasının ve tanıtım videosunun hazırlanması. Bu sprintte gerçekleştirilmesi hedeflenen görevler, **25 puan + 48 puan olmak üzere toplam 73 puandır**. **25 puanlık kısım**, gerçekleştirilmesi hedeflenen ana görevler olarak belirlenerek öncelenmiş, diğer **48 puanlık kısım** ise projenin gidişatına göre değerlendirilmek üzere "_EPIC 8: Ekstra Özelliklerin Eklenmesi_" şeklinde belirtilip projenin ana kapsamından ayrı tutulmuştur. Yani, _EPIC 8_ kapsamında olan görevler, proje için esas teşkil etmemektedir.
+* **Sprint 3 — Teslimat Hazırlığı:** Son kontrollerin ve deneyim iyileştirmelerinin yapılması; dokümantasyonun, sunum dosyasının ve tanıtım videosunun hazırlanması. Bu sprintte gerçekleştirilmesi hedeflenen görevler, toplam **18 adet** ve **25 puan + 48 puan olmak üzere toplam 73 puandır**. **25 puanlık kısım**, gerçekleştirilmesi hedeflenen ana görevler olarak belirlenerek öncelenmiş, diğer **48 puanlık kısım** ise projenin gidişatına göre değerlendirilmek üzere "_EPIC 8: Ekstra Özelliklerin Eklenmesi_" şeklinde belirtilip projenin ana kapsamından ayrı tutulmuştur. Yani, _EPIC 8_ kapsamında olan görevler, proje için esas teşkil etmemektedir.
 
 ### Sprint Takvimi
 
