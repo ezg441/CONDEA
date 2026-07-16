@@ -328,7 +328,30 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 
 ### Backlog Düzeni ve Story Seçimleri
 
-*[Backlog oluşturulurken nasıl bir düzenin esas alındığı, görev dağılımlarının nasıl yapıldığı anlatılır. Örneğin, görevlerin önceliği, zorluk seviyesi vs.]* Bu sprint kapsamında, belirlenen **toplam 8 görev**in tamamlanması hedeflenmektedir. Bu görevler, **toplam 24 puan** değerindedir. 
+<table>
+  <thead>
+    <tr style="background-color: #1f2325;">
+      <th align="center">Durum</th>
+      <th align="left">Sprint & Odak Noktası</th>
+      <th align="center">Başlangıç</th>
+      <th align="center">Bitiş</th>
+      <th align="center">Görev Sayısı</th>
+      <th align="center">İş Yükü (Puan)</th>
+      <th align="left">Kapsam ve Açıklama</th>
+    </tr>
+  </thead>
+ <tr>
+      <td align="center"><img src="https://img.shields.io/badge/TAMAMLANDI-brightgreen?style=flat-square" alt="Tamamlandı"></td>
+      <td><b>Sprint 2</b><br><i>Yapay Zeka Entegrasyonu</i></td>
+      <td align="center">06 Temmuz</td>
+      <td align="center">19 Temmuz</td>
+      <td align="center"><code>8 Görev</code></td>
+      <td align="center"><b>24 SP</b></td>
+      <td>Yapay zeka öğelerinin entegre edilerek prototipin akıllı ve dinamik hâle getirilmesi.</td>
+    </tr>
+</table>
+
+Sprint 1'de hedeflenen görevlerin planlanandan erken tamamlanması, ekibin, Sprint 1 için belirlenen iş kapasitesini rahatlıkla karşılayabildiğini gösterdi. Sprint 2'de daha fazla görev eklemek yerine Sprint 1'deki yaklaşık üçte birlik puan oranını korumayı tercih ettik. Bu kararla, sürecin çok yoğun geçerek ekibin iş veriminin azalmasının engellenmesi hedeflendi. Bu sprint kapsamında, belirlenen **toplam 8 görev**in tamamlanması hedeflenmektedir. Bu görevler, **toplam 24 puan** değerindedir. 
 
 ### Daily Scrum
 
@@ -371,23 +394,23 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 
 ### 🔎 Sprint Review
 
-**Amacı:** Sprint boyunca "Ne ürettik?" sorusunun cevabıdır. Takım, Sprint başında hedeflediği ve bitirdiği çalışan özellikleri (ürün parçasını) canlı olarak demo yapar ve teknik doğrulamayı gerçekleştirir.
-
-* **Sprint Hedefi:** YouTube yorumlarını otonom olarak yakalayıp Gemini ile filtrelenmiş yapay zeka yanıtları üreten çalışan bir veri hattı (MVP) kurmak.
+* **Sprint Hedefi:** Gemini entegrasyonuyla özelleştirilebilir niyet ve kategori analizi motoru geliştirilerek, bu analizleri dinamik içerik destekli profesyonel Gmail HTML raporlarıyla sunan bir yapı kurgulanması.
 * **Katılımcılar:** Ufuk Demir, Ezgisu Badak, Feyzanur Karatay, Furkan Çakı, Ayşe Dilara Baysal **(Tüm Scrum Takımı)**
 > *Not: Bu sprint sonu değerlendirmesi, dış paydaş katılımı olmaksızın "İç Teknik Demo" olarak gerçekleştirilmiştir.*
 
 ---
 
 * **Tamamlanan ve Demosu Yapılan İşler:**
-  * [✓] YouTube "Watch Comments" modülü entegrasyonu (Canlı akış başarıyla izlendi).
-  * [✓] Google Sheets üzerinden mükerrer yorum filtresi (Duplicate Filtering testi başarıyla geçildi).
-  * [✓] Gemini prompt mühendisliği ve 2 farklı yanıt taslağı üretimi (Çıktı kalitesi ekipçe onaylandı).
-  * [✓] Airtable veri mimarisi testi ve veri eşleştirme doğrulaması.
+  * [✓] Duygu, niyet ve özel konu bazında çok etiketli yorum sınıflandırma (Google Sheets'teki konumları doğrulandı)
+  * [✓] Spam ve reklam filtresi (Spam ve reklam içeren yorumlar raporlama tablosuna yazılmadan eleniyor)
+  * [✓] Çift dilli yanıt taslakları (TR-EN)
+  * [✓] Kurumsal HTML e-posta şablonu
+  * [✓] Verileri filtreleyen mantıksal fonksiyonların kurulması
 
 * **Ekip İçi Teknik Değerlendirme & Gelecek Sprint Kararları:** 
-  * Gemini'ın ürettiği yanıt şablonlarının kalitesi ekip tarafından yeterli bulundu; ancak sonraki fazlarda yanıt kalitesini artırmak için bir "tonlama ayarı" (resmi/samimi) eklenmesi teknik backlog'a dahil edildi.
-  * Veri hattının kararlı çalıştığı internal demo ile doğrulandığından, Sprint 2'de doğrudan Softr arayüz tasarımına ve front-end geliştirmelerine odaklanılması kararlaştırıldı.
+  * Çok etiketli sınıflandırmanın tek prompt'ta çözülmesi, ayrı modüllere bölmeye kıyasla ciddi operasyon (kota) tasarrufu sağladı; bu yaklaşım korunacak.
+  * Parametrik yapı sayesinde ürünün başka kanallara uyarlanabilirliği doğrulandı; ürünleşme potansiyeli güçlendi.
+  * Sınıflandırma çıktı kalitesi ekipçe yeterli bulundu; iki tonlu taslakların pratikte işe yaradığı görüldü.
 
 ---
 
