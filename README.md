@@ -67,7 +67,7 @@ Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
   </tr>
 </table>
 
-Proje toplam **3 sprint** olarak planlanmıştır ve sprint takvimi aşağıda yer almaktadır.
+Proje toplam **3 sprint** olarak planlanmıştır ve "**Sprint Takvimi**" aşağıda yer almaktadır.
 
 Gerçekleştirilmesi planlanan **toplam görev sayısı 32** _(User Story)_ ve **tüm görevlerin toplam puanı 117**'dir. _(User Story)_
 
@@ -79,11 +79,57 @@ Gerçekleştirilmesi planlanan **toplam görev sayısı 32** _(User Story)_ ve *
 
 ### Sprint Takvimi
 
-| Durum | Sprint | Başlangıç Tarihi | Bitiş Tarihi |
-| :---: | :--- | :---: | :---: |
-| ✅ | **Sprint 1** | 19 Haziran | 5 Temmuz |
-| ✅ | **Sprint 2** | 6 Temmuz | 19 Temmuz |
-| ⏳ | **Sprint 3** | 20 Temmuz | 2 Ağustos |
+<table>
+  <thead>
+    <tr style="background-color: #1f2325;">
+      <th align="center">Durum</th>
+      <th align="left">Sprint & Odak Noktası</th>
+      <th align="center">Başlangıç</th>
+      <th align="center">Bitiş</th>
+      <th align="center">Görev Sayısı</th>
+      <th align="center">İş Yükü (Puan)</th>
+      <th align="left">Kapsam ve Açıklama</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/TAMAMLANDI-brightgreen?style=flat-square" alt="Tamamlandı"></td>
+      <td><b>Sprint 1</b><br><i>Temel Oluşturma</i></td>
+      <td align="center">19 Haziran</td>
+      <td align="center">05 Temmuz</td>
+      <td align="center"><code>6 Görev</code></td>
+      <td align="center"><b>20 SP</b></td>
+      <td>Süreci başlatacak ilk prototipin ortaya konması ve temel altyapının kurulması.</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/TAMAMLANDI-brightgreen?style=flat-square" alt="Tamamlandı"></td>
+      <td><b>Sprint 2</b><br><i>Yapay Zeka Entegrasyonu</i></td>
+      <td align="center">06 Temmuz</td>
+      <td align="center">19 Temmuz</td>
+      <td align="center"><code>8 Görev</code></td>
+      <td align="center"><b>24 SP</b></td>
+      <td>Yapay zeka öğelerinin entegre edilerek prototipin akıllı ve dinamik hâle getirilmesi.</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/DEVAM_ED%C4%B0YOR-orange?style=flat-square" alt="Devam Ediyor"></td>
+      <td><b>Sprint 3</b><br><i>Teslimat Hazırlığı</i></td>
+      <td align="center">20 Temmuz</td>
+      <td align="center">02 Ağustos</td>
+      <td align="center"><code>18 Görev</code></td>
+      <td align="center"><b>73 SP</b><br><small><i>(25 SP Ana + 48 SP Ekstra)</i></small></td>
+      <td>Son kontroller, kullanıcı deneyimi iyileştirmeleri, dokümantasyon, sunum ve tanıtım videosu.<br>⚠️ <i>48 SP'lik kısım (EPIC 8: Ekstra Özellikler) esnek kapsamdadır.</i></td>
+    </tr>
+    <tr style="background-color: #f6f8fa; font-weight: bold;">
+      <td align="center">📊 <b>ÖZET</b></td>
+      <td><b>Tüm Süreç</b></td>
+      <td align="center"><b>19 Haziran</b></td>
+      <td align="center"><b>02 Ağustos</b></td>
+      <td align="center"><code>32 Görev</code></td>
+      <td align="center"><b>117 SP</b><br><small><i>(69 SP Ana Kapsam)</i></small></td>
+      <td>YouTube içerik üreticilerinin topluluklarından gelen değerli içerik fikirlerini kaçırmamasını sağlayan akıllı bir otomasyon sistemi olan <b>Condea</b>'nın geliştirilmesi.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 </details>
