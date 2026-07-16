@@ -172,6 +172,31 @@ Tüm proje süreci boyunca gerçekleştirilmesi planlanan **toplam görev sayıs
 
 ### Backlog Düzeni ve Story Seçimleri
 
+<table>
+  <thead>
+    <tr style="background-color: #1f2325;">
+      <th align="center">Durum</th>
+      <th align="left">Sprint & Odak Noktası</th>
+      <th align="center">Başlangıç</th>
+      <th align="center">Bitiş</th>
+      <th align="center">Görev Sayısı</th>
+      <th align="center">İş Yükü (Puan)</th>
+      <th align="left">Kapsam ve Açıklama</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/TAMAMLANDI-brightgreen?style=flat-square" alt="Tamamlandı"></td>
+      <td><b>Sprint 1</b><br><i>Temel Oluşturma</i></td>
+      <td align="center">19 Haziran</td>
+      <td align="center">05 Temmuz</td>
+      <td align="center"><code>6 Görev</code></td>
+      <td align="center"><b>20 SP</b></td>
+      <td>Süreci başlatacak ilk prototipin ortaya konması ve temel altyapının kurulması.</td>
+    </tr>
+    <tr>
+    </table>
+
 Öncelikle, ekipteki geliştiricilerin fikirleri esas alınarak, projenin hayata geçirilebilmesi için mutlaka tamamlanması gereken ana görevler ve alt görevler belirlendi. Henüz ilk sprint olması ve ekibin iş potansiyelinin tam olarak bilinememesi sebebiyle ilk sprint için yaklaşık üçte birlik bir görev yoğunluğu *(Süreç toplamda üç sprintten oluştuğu için)* mantıklı bulundu ve görevler, bu oranı karşılayacak şekilde sırasıyla eklendi. Sprint 1'de gösterilen ekip performansına bağlı olarak diğer sprintlerde görevlerin artırılmasına veya azaltılmasına karar verilebilir. İlaveten, Sprint 1 için yapılan görev planlamasının dışına çıkılarak sonraki sprintlerin görevleri erkene alınabilir. Bu sprint kapsamında, belirlenen **toplam 6 görev**in tamamlanması hedeflenmektedir. Bu görevler, **toplam 20 puan** değerindedir. 
 
 ### Daily Scrum
@@ -182,28 +207,6 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 [![Ekran Görüntüsü 2](https://img.shields.io/badge/Ekran_Görüntüsü-2-24292E?style=for-the-badge)](ekran-goruntuleri/sprint-1/daily-scrum/Sprint-1-Daily-Scrum-(SS2).png)
 [![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran-goruntuleri/sprint-1/daily-scrum/Sprint-1-Daily-Scrum-(SS3).png)
 [![Ekran Görüntüsü 4](https://img.shields.io/badge/Ekran_Görüntüsü-4-24292E?style=for-the-badge)](ekran-goruntuleri/sprint-1/daily-scrum/Sprint-1-Daily-Scrum-(SS4).png)
-
----
-
-| Gün | Tarih | Açıklama |
-| :--- | :--- | :--- |
-| **1. GÜN** | 19 Haziran 2026 | **Dün:** Başlangıç yayını izlendi.<br>**Bugün:** Karar süreçlerini hızlandırmak amacıyla tüm fikirler kolektif bir listede toplanacak; rol dağılımı konuşulacak.<br>**Engel:** Yok. |
-| **2. GÜN** | 20 Haziran 2026 | **Dün:** Proje fikirleri havuzu oluşturuldu.<br>**Bugün:** Ekip rollerini ve nihai proje fikrini netleştirmek üzere bir araya gelinecek.<br>**Engel:** Yok. |
-| **3. GÜN** | 21 Haziran 2026 | **Dün:** Proje tanımı *(GoStock)* ve roller belirlendi.<br>**Bugün:** *Product Backlog* ve ilk sprintin iskelet çalışmaları başlatılacak.<br>**Engel:** Yok. |
-| **4. GÜN** | 22 Haziran 2026 | **Dün:** Teknik gereksinimler ve zaman kısıtları analiz edildi.<br>**Bugün:** Proje teknik olarak çok zorlandığı için fikir revizyonu veya yeni fikre geçiş olanakları değerlendirilecek.<br>**Engel:** 🚨 **Kritik:** Mevcut fikir mevcut imkanlarla uyuşmuyor. |
-| **5. GÜN** | 23 Haziran 2026 | **Dün:** *GoStock* projesinden vazgeçildi, yeni fikir *Condea* olarak netleşti.<br>**Bugün:** Geliştirici fikirleri doğrultusunda *Product Backlog* taslağı hazırlanacak.<br>**Engel:** Yok. |
-| **6. GÜN** | 24 Haziran 2026 | **Dün:** Yeni projenin ana hatları belirlendi.<br>**Bugün:** *Product Backlog* ve *Sprint 1* panoları kurulacak, görev atamaları ve zorluk dereceleri güncellenecek.<br>**Engel:** Yok. |
-| **7. GÜN** | 25 Haziran 2026 | **Dün:** Görev atamaları tamamlandı.<br>**Bugün:** MVP altyapılarının uygunluklarını değerlendirebilmek için *Softr/Bubble* uygulamalarına yönelik bir araştırma yapılıp karşılaştırma raporu hazırlanacak. *Make* üzerinde veri hattı mimarisine başlanacak.<br>**Engel:** Yok. |
-| **8. GÜN** | 26 Haziran 2026 | **Dün:** Altyapı araştırması tamamlandı.<br>**Bugün:** *YouTube Watch Comments*, *Google Sheets Duplicate Filtering* ve *Gemini* prompt entegrasyonu tamamlanarak temel veri hattı kurulacak.<br>**Engel:** Yok. |
-| **9. GÜN** | 27 Haziran 2026 | **Dün:** Temel veri hattı kuruldu.<br>**Bugün:** *Google Sheets*'e alternatif olarak *Airtable* veri mimarisi de denenecek. *YouTube Studio* ayarları esnetilerek kanala yanıt iletim testleri yapılacak.<br>**Engel:** 🚧 *YouTube* tarafında *"gölge yanıt"* sorunu var. |
-| **10. GÜN** | 28 Haziran 2026 | **Dün:** Gölge yanıt sorunu çözüldü ve veri hattı başarıyla doğrulandı.<br>**Bugün:** Ekip içi senkronizasyonu korumak ve kapsamın dışına çıkılmasını *(feature creep)* önlemek için hizalanma toplantısı yapılacak.<br>**Engel:** Kapsamın çok genişleme riski (Önlem alınıyor). |
-| **11. GÜN** | 29 Haziran 2026 | **Dün:** Proje kapsam sınırları netleştirildi.<br>**Bugün:** Sunum dosyası için ön taslaklar oluşturulacak. *Sprint Review* ve *Retrospective* tarihleri planlanacak.<br>**Engel:** Yok. |
-| **12. GÜN** | 30 Haziran 2026 | **Dün:** Sunum taslakları tamamlandı.<br>**Bugün:** *Sprint 1* işleri erken bittiği için zamanı verimli kullanmak adına *Sprint 2* görevlerine erkenden başlanması değerlendirilecek.<br>**Engel:** Yok. |
-| **13. GÜN** | 1 Temmuz 2026 | **Dün:** *Sprint 2* görevleri ilgili panolara eklendi.<br>**Bugün:** *Product Backlog* panosunda genel iyileştirmeler ve güncellemeler yapılacak.<br>**Engel:** Yok. |
-| **14. GÜN** | 2 Temmuz 2026 | **Dün:** *Product Backlog* güncellendi.<br>**Bugün:** *Sprint 1* kapatılmadan önce *Sprint 1* ve *Sprint 2* panolarının son senkronizasyon kontrolleri yapılacak.<br>**Engel:** Yok. |
-| **15. GÜN** | 3 Temmuz 2026 | **Dün:** *Sprint 1* ve *2* panoları senkronize edildi.<br>**Bugün:** Sprint 1'in kapanışı için *Review* ve *Retrospective* toplantıları yapılacak. <br>**Engel:** Yok. |
-| **16. GÜN** | 4 Temmuz 2026 | **Dün:** *Review* ve *Retrospective* toplantıları yapıldı.<br>**Bugün:** Kapsamlı bir repository düzenlemesi yapılarak Sprint 1 kapatılacak.<br>**Engel:** Yok. |
-| **17. GÜN** | 5 Temmuz 2026 | **Dün:** Repo düzenlenerek Sprint 1 kapatıldı.<br>**Bugün:** *Sprint 2* görevleri planlandı ve board'a eklendi. Tamamlanması hedeflenen işlerle ilgili geliştirme sürecine başlanacak.<br>**Engel:** Yok. |
 
 ---
 
@@ -334,25 +337,6 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 
 ---
 
-| Gün | Tarih | Açıklama |
-| :--- | :--- | :--- |
-| **18. GÜN** | 6 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **19. GÜN** | 7 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **20. GÜN** | 8 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **21. GÜN** | 9 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **22. GÜN** | 10 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **23. GÜN** | 11 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **24. GÜN** | 12 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **25. GÜN** | 13 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **26. GÜN** | 14 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **27. GÜN** | 15 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **28. GÜN** | 16 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **29. GÜN** | 17 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **30. GÜN** | 18 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **31. GÜN** | 19 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-
----
-
 ### Sprint Board Durumu
 #### 1. Ekran Görüntüsü
 
@@ -480,25 +464,6 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 [![Ekran Görüntüsü 2](https://img.shields.io/badge/Ekran_Görüntüsü-2-24292E?style=for-the-badge)](ekran_goruntuleri/daily-2.png)
 [![Ekran Görüntüsü 3](https://img.shields.io/badge/Ekran_Görüntüsü-3-24292E?style=for-the-badge)](ekran_goruntuleri/daily-3.png)
 [![Ekran Görüntüsü 4](https://img.shields.io/badge/Ekran_Görüntüsü-4-24292E?style=for-the-badge)](ekran_goruntuleri/daily-4.png)
-
----
-
-| Gün | Tarih | Açıklama |
-| :--- | :--- | :--- |
-| **32. GÜN** | 20 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **33. GÜN** | 21 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **34. GÜN** | 22 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **35. GÜN** | 23 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **36. GÜN** | 24 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **37. GÜN** | 25 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **38. GÜN** | 26 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **39. GÜN** | 27 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **40. GÜN** | 28 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **41. GÜN** | 29 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **42. GÜN** | 30 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **43. GÜN** | 31 Temmuz 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **44. GÜN** | 1 Ağustos 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
-| **45. GÜN** | 2 Ağustos 2026 | **Dün:** [XXX] yapıldı.<br>**Bugün:** [XXX] yapılacak.<br>**Engel:** Yok. |
 
 ---
 
