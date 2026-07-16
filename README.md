@@ -419,17 +419,20 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 **Amacı:** Ürüne değil, takımın çalışma şekline ve süreçlerine odaklanılır. "Nasıl çalıştık, neleri daha iyi yapabiliriz?" sorusuna cevap aranır. Takım içi açık ve şeffaf bir dürüstlük seansıdır.
 
 #### 🟢 Ne İyi Gitti? (What went well?)
-*   İlk projedeki (GoStock) teknik engeli 4. günde çok hızlı fark edip pivot (fikir değiştirme) kararı alabildik. Zaman kaybetmedik.
-*   Make.com ve Gemini entegrasyonu beklediğimizden çok daha hızlı ve stabil çalıştı.
-*   Takım içi yardımlaşma ve Daily Scrum disiplini yüksekti.
+*   Projenin teknik tarafı ile dokümantasyon tarafının koordinasyonu hızlı şekilde sağlandı.
+*   Planlanan işler erken bitince ekip boş durmak yerine kapsam dışı özellikler üretti; proaktif bir tutum sergilendi.
+*   Danışmanımızın isteği üzerine, görev puanları ve backlog dağıtım mantığı gibi kısımlardaki eksikliklerimiz hızlı bir şekilde güncellenerek dokümantasyon, büyük oranda nihaî hâline getirildi.
 
 #### 🔴 Ne Kötü Gitti? (What went wrong?)
-*   Sprint başında projenin teknik fizibilitesini tam yapmadığımız için ilk 3 günü boşa harcadık ve proje değiştirmek zorunda kaldık.
-*   YouTube'daki "gölge yanıt" sorunu bizi 1 gün boyunca blokladı.
+*   Make.com senaryoları ve API anahtarları gibi ortak/gizli kaynaklara erişimin tek kişide toplanması sebebiyle ekip üyelerinin paralel çalışması zorlaştı.
+*   Yapay zekanın yönlendirmelerine odaklanılarak hızlı şekilde alınan yapılandırma kararları, daha az aşamada ve daha kısa sürede gerçekleştirilebilecek bir iş akışına, gereğinden fazla zaman harcanmasına neden oldu. 
 
 #### 🎯 Gelecek Sprint İçin Aksiyon Planları (Action Items)
-*   **Aksiyon 1:** Sprint 2 planlamasına başlamadan önce No-Code araçlarının (Softr) teknik sınırları kontrol edilecek. (Sorumlu: Geliştirici A)
-*   **Aksiyon 2:** API kota ve kısıtlamaları önceden listelenecek. (Sorumlu: Geliştirici B)
+*   **Aksiyon 1:** Paylaşılan Make.com kotaları için kullanıp takibi yapılacak, yoğun test öncesi ekip bilgilendirilecek.
+*   **Aksiyon 2:** Kritik yapılandırma kararları alındığı anda dokümana işlenecek, sprint sonuna bırakılmayacak.
+*   **Aksiyon 3:** Kullanıcıların e-posta kapsamını seçebilmesi ve önceki dönemle trend karşılaştırması (↑/↓) yapabilmesi için veri işleme mantığı tamamlanacak.
+*   **Aksiyon 4:** Zamanlayıcı kurulacak ve e-posta alım sıklığı _(günlük ve haftalık)_ seçilebilecek.
+*   **Aksiyon 5:** Sunum, dokümantasyon, teknik dosyalar ve video hazırlanacak.
 
 ---
 
