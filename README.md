@@ -286,8 +286,8 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 *   **Sprint Durumu:** Başarıyla Tamamlandı (Hatta Sprint 2 görevlerine erken başlandı)
 
 #### 📈 Hız ve Metrikler (Velocity)
-*   **Planlanan İş (Story Point / Görev Sayısı):** 8 Görev
-*   **Tamamlanan İş:** 8 Görev (GoStock iptal edildikten sonra Condea kapsamında açılan tüm görevler tamamlanmıştır.)
+*   **Planlanan İş (Story Point / Görev Sayısı):** 6 Görev
+*   **Tamamlanan İş:** 6 Görev (GoStock iptal edildikten sonra Condea kapsamında açılan tüm görevler tamamlanmıştır.)
 
 #### 🛠️ Teknik Gelişmeler & Sürüm Notları (Release Notes)
 *   **YouTube Otomasyonu:** Canlı yorum akışı Sheets'e bağlandı.
@@ -441,26 +441,33 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 **Amacı:** O sprintin tüm teknik ve idari özetidir. Projenin hafızasıdır (Archive). Dönüp bakıldığında o tarihte projenin hangi sürümde olduğu ve ne durumda olduğunu gösterir. İçinde takvim, metrikler, review ve retro özetleri bir arada bulunur.
 
 #### 📅 Genel Bilgiler
-*   **Tarih Aralığı:** 19 Haziran 2026 - 2 Temmuz 2026 (14 Gün)
-*   **Sprint Hedefi:** Temel otonom veri hattının çalışır hale getirilmesi (MVP)
-*   **Sprint Durumu:** Başarıyla Tamamlandı (Hatta Sprint 2 görevlerine erken başlandı)
+*   **Tarih Aralığı:** 6 Temmuz 2026 - 19 Temmuz 2026 (14 Gün)
+*   **Sprint Hedefi:** Gemini entegrasyonuyla özelleştirilebilir niyet ve kategori analizi motoru geliştirilerek, bu analizleri dinamik içerik destekli profesyonel Gmail HTML raporlarıyla sunan bir yapı kurgulanması.
+*   **Sprint Durumu:** Başarıyla Tamamlandı (Hatta Sprint 3 görevlerine erken başlandı)
 
 #### 📈 Hız ve Metrikler (Velocity)
 *   **Planlanan İş (Story Point / Görev Sayısı):** 8 Görev
-*   **Tamamlanan İş:** 8 Görev (GoStock iptal edildikten sonra Condea kapsamında açılan tüm görevler kapatılmıştır.)
+*   **Tamamlanan İş:** 8 Görev (Tamamlanması hedeflenen tüm görevler kapatılmıştır.)
 
 #### 🛠️ Teknik Gelişmeler & Sürüm Notları (Release Notes)
-*   **YouTube Otomasyonu:** Canlı yorum akışı Sheets'e bağlandı.
-*   **Filtreleme:** `Search Rows` ile mükerrer veri işleme hatası %100 engellendi.
-*   **Yapay Zeka:** Gemini API entegrasyonu ile otomatik duygu analizi ve yanıt taslağı kurgusu yapıldı.
-*   **Veri Mimarisi:** Verilerin Airtable/Sheets üzerinde ilişkisel tutulması sağlandı.
+*   **Çok Etiketli Sınıflandırma:** Gemini tek çağrıda duygu (Olumlu/Olumsuz/Nötr), niyet (Beğeni/Eleştiri/İçerik İsteği/Spam) ve özel konu etiketini birlikte üretecek şekilde güncellendi.
+*   **Filtreleme:** Reklam ve spam içerikler ana raporlama tablosuna hiç yazılmadan eleniyor.
+*   **Yanıt Taslakları:** Yorumun diline göre (TR/EN) ve iki farklı tonda (Kurumsal / Samimi) taslak üretimi devreye alındı.
+*   **Parametrik Yapı:** Kanal adı, konusu ve özel konu kelimesi `Ayarlar` sekmesinden okunup prompt'a besleniyor; ürün tek kanala bağımlı olmaktan çıktı.
+*   **Raporlama:** "Haftalık İçerik Önerileri" ve opsiyonel "En Beğenilen / En Ağır Eleştiriler" bölümlerini içeren kurumsal HTML e-posta şablonu tasarlandı.
+*   **Analitik:** Google Sheets içinde KPI'lar ile pasta ve çubuk grafikten oluşan `Özet Panel` kuruldu.
 
 #### ⚠️ Yaşanan Değişiklikler ve Kriz Yönetimi
-*   **22-23 Haziran:** GoStock projesinin zaman/imkan kısıtları nedeniyle iptal edilmesine ve yapay zeka odaklı **Condea** projesine geçilmesine oy birliğiyle karar verilmiştir. Bu stratejik pivot, projenin başarısını olumlu etkilemiştir.
+*   **8-10 Temmuz:** Gemini çıktısının .JSON bloğuna sarılması *Parse JSON* hatasına yol açtı. *Parse JSON* modülü tamamen kaldırılıp `responseMimeType: application/json` ayarlanarak sorun çözüldü.
+*   **13-14 Temmuz:** İki farklı Google hesabı ve iki ayrı spreadsheet üzerinde çalışıldığı fark edildi; mükerrer kayıtlar oluşmuştu. Tüm akış tek hesap ve tek veri kaynağında birleştirildi ve **"tek ortak hesap, tek veri kaynağı"** kuralı ekipçe benimsendi.
+*   **16-17 Temmuz:** "Özel Konu" sütununa yanlış hücre beslendiği için etiketler bozuldu; hücre eşlemesi düzeltilerek giderildi.
 
-#### 🎯 Sonraki Sprint (Sprint 2) Odağı
-*   Web tabanlı arayüzün (Softr/Bubble) tasarlanması.
-*   Kullanıcı paneli ve yorum yönetim ekranlarının front-end geliştirmesi.
+#### 🎯 Sonraki Sprint (Sprint 3) Odağı
+*   Zaman ayarlı (periyodik) rapor gönderim otomasyonunun kurulması.
+*   Son 7 günü işleyen bağımsız raporlama senaryosunun tamamlanması.
+*   Jüri sunumu için "Demo Butonu", 3 dakikalık yedek ekran kaydı ve teknik dokümantasyonun hazırlanması.
+*   Veri toplama hattına müdahale edilmeden sistemin sunum için stabilize edilmesi.
+*   Ana görevler tamamlandığında EPIC 8: _(Ekstra Görevler)_'in de yapılması. 
 
 </details>
 
