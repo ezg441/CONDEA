@@ -351,7 +351,7 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
     </tr>
 </table>
 
-Sprint 1'de hedeflenen görevlerin planlanandan erken tamamlanması, ekibin, Sprint 1 için belirlenen iş kapasitesini rahatlıkla karşılayabildiğini gösterdi. Sprint 2'de daha fazla görev eklemek yerine Sprint 1'deki yaklaşık üçte birlik puan oranını korumayı tercih ettik. Bu kararla, sürecin çok yoğun geçerek ekibin iş veriminin azalmasının engellenmesi hedeflendi. Bu sprint kapsamında, belirlenen **toplam 8 görev**in tamamlanması hedeflenmektedir. Bu görevler, **toplam 24 puan** değerindedir. 
+Sprint 1'de hedeflenen görevlerin planlanandan erken tamamlanması, ekibin, Sprint 1 için belirlenen iş kapasitesini rahatlıkla karşılayabildiğini gösterdi. Sprint 2'de daha fazla görev eklemek yerine Sprint 1'deki yaklaşık üçte birlik puan oranını korumayı tercih ettik. Bu kararla, sürecin çok yoğun geçerek ekibin iş veriminin azalmasının engellenmesi amaçlandı. Bu sprint kapsamında, belirlenen **toplam 8 görev**in tamamlanması hedeflenmektedir. Bu görevler, **toplam 24 puan** değerindedir. 
 
 ### Daily Scrum
 
