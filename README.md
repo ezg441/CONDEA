@@ -425,7 +425,7 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 
 #### 🔴 Ne Kötü Gitti? (What went wrong?)
 *   Make.com senaryoları ve API anahtarları gibi ortak/gizli kaynaklara erişimin tek kişide toplanması sebebiyle ekip üyelerinin paralel çalışması zorlaştı.
-*   Yapay zekanın yönlendirmelerine odaklanılarak hızlı şekilde alınan yapılandırma kararları, daha az aşamada ve daha kısa sürede gerçekleştirilebilecek bir iş akışına, gereğinden fazla zaman harcanmasına neden oldu. 
+*   Bazı yapılandırma kararlarının yeterince değerlendirilmeden, hızlı şekilde alınması, daha az aşamada ve daha kısa sürede gerçekleştirilebilecek bir iş akışına gereğinden fazla zaman harcanmasına neden oldu. 
 
 #### 🎯 Gelecek Sprint İçin Aksiyon Planları (Action Items)
 *   **Aksiyon 1:** Paylaşılan Make.com kotaları için kullanıp takibi yapılacak, yoğun test öncesi ekip bilgilendirilecek.
