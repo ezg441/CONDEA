@@ -495,6 +495,30 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 
 ### Backlog Düzeni ve Story Seçimleri
 
+<table>
+  <thead>
+    <tr style="background-color: #1f2325;">
+      <th align="center">Durum</th>
+      <th align="left">Sprint & Odak Noktası</th>
+      <th align="center">Başlangıç</th>
+      <th align="center">Bitiş</th>
+      <th align="center">Görev Sayısı</th>
+      <th align="center">İş Yükü (Puan)</th>
+      <th align="left">Kapsam ve Açıklama</th>
+    </tr>
+  </thead>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/TAMAMLANDI-brightgreen?style=flat-square" alt="Tamamlandı"></td>
+      <td><b>Sprint 3</b><br><i>Teslimat Hazırlığı</i></td>
+      <td align="center">20 Temmuz</td>
+      <td align="center">02 Ağustos</td>
+      <td align="center"><code>18 Görev</code></td>
+      <td align="center"><b>73 SP</b><br><small><i>(25 SP Ana + 48 SP Ekstra)</i></small></td>
+      <td>Son kontroller, kullanıcı deneyimi iyileştirmeleri, dokümantasyon, sunum ve tanıtım videosu.<br>⚠️ <i>48 SP'lik kısım (EPIC 8: Ekstra Özellikler) esnek kapsamdadır.</i></td>
+    </tr>
+  </tbody>
+</table>
+
 *[Backlog oluşturulurken nasıl bir düzenin esas alındığı, görev dağılımlarının nasıl yapıldığı anlatılır. Örneğin, görevlerin önceliği, zorluk seviyesi vs.]*
 
 ### Daily Scrum
