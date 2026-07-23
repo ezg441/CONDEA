@@ -125,7 +125,7 @@ Tüm proje süreci boyunca gerçekleştirilmesi planlanan **toplam görev sayıs
       <td>Yapay zeka öğelerinin entegre edilerek prototipin akıllı ve dinamik hâle getirilmesi.</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/DEVAM_ED%C4%B0YOR-orange?style=flat-square" alt="Devam Ediyor"></td>
+      <td align="center"><img src="https://img.shields.io/badge/TAMAMLANDI-brightgreen?style=flat-square" alt="Tamamlandı"></td>
       <td><b>Sprint 3</b><br><i>Teslimat Hazırlığı</i></td>
       <td align="center">20 Temmuz</td>
       <td align="center">02 Ağustos</td>
