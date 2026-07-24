@@ -194,6 +194,8 @@ Condea üç bileşenden oluşur; tüm kaynak kodları bu repodadır:
   </tr>
 </table>
 
+---
+
 ### Backlog Düzeni ve Story Seçimleri
 
 <table>
@@ -221,6 +223,8 @@ Condea üç bileşenden oluşur; tüm kaynak kodları bu repodadır:
     </table>
 
 Öncelikle, ekipteki geliştiricilerin fikirleri esas alınarak, projenin hayata geçirilebilmesi için mutlaka tamamlanması gereken ana görevler ve alt görevler belirlendi. Henüz ilk sprint olması ve ekibin iş potansiyelinin tam olarak bilinememesi sebebiyle ilk sprint için yaklaşık üçte birlik bir görev yoğunluğu *(Süreç toplamda üç sprintten oluştuğu için)* mantıklı bulundu ve görevler, bu oranı karşılayacak şekilde sırasıyla eklendi. Sprint 1'de gösterilen ekip performansına bağlı olarak diğer sprintlerde görevlerin artırılmasına veya azaltılmasına karar verilebilir. İlaveten, Sprint 1 için yapılan görev planlamasının dışına çıkılarak sonraki sprintlerin görevleri erkene alınabilir. Bu sprint kapsamında, belirlenen **toplam 6 görev**in tamamlanması hedeflenmektedir. Bu görevler, **toplam 20 puan** değerindedir. 
+
+---
 
 ### Daily Scrum
 
@@ -349,6 +353,8 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
   </tr>
 </table>
 
+---
+
 ### Backlog Düzeni ve Story Seçimleri
 
 <table>
@@ -375,6 +381,8 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 </table>
 
 Sprint 1'de hedeflenen görevlerin planlanandan erken tamamlanması, ekibin, Sprint 1 için belirlenen iş kapasitesini rahatlıkla karşılayabildiğini gösterdi. Sprint 2'de daha fazla görev eklemek yerine Sprint 1'deki yaklaşık üçte birlik puan oranını korumayı tercih ettik. Bu kararla, sürecin çok yoğun geçerek ekibin iş veriminin azalmasının engellenmesi amaçlandı. Bu sprint kapsamında, belirlenen **toplam 8 görev**in tamamlanması hedeflenmektedir. Bu görevler, **toplam 24 puan** değerindedir. 
+
+---
 
 ### Daily Scrum
 
@@ -516,6 +524,8 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
   </tr>
 </table>
 
+---
+
 ### Backlog Düzeni ve Story Seçimleri
 
 <table>
@@ -543,6 +553,8 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 </table>
 
 *[Backlog oluşturulurken nasıl bir düzenin esas alındığı, görev dağılımlarının nasıl yapıldığı anlatılır. Örneğin, görevlerin önceliği, zorluk seviyesi vs.]*
+
+---
 
 ### Daily Scrum
 
