@@ -2,10 +2,31 @@
 
 > *"Keşfet. Yakala. Yayınla."*
 
-![Grup 4](https://img.shields.io/badge/Grup-4-007ec6?style=for-the-badge&logo=github&logoColor=white)
-![Yapay Zeka ve Teknoloji Akademisi](https://img.shields.io/badge/Yapay_Zeka_ve_Teknoloji_Akademisi-007ec6?style=for-the-badge&logo=google-cloud&logoColor=white)
-![No-Code/Low-Code](https://img.shields.io/badge/No--Code_%2F_Low--Code-007ec6?style=for-the-badge&logo=appveyor&logoColor=white)
-![Bootcamp 2026](https://img.shields.io/badge/Bootcamp-2026-007ec6?style=for-the-badge&logo=rocket&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Grup-4-e50914?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Grup 4">
+  <img src="https://img.shields.io/badge/Yapay%20Zeka%20ve%20Teknoloji%20Akademisi-1a1a1a?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Yapay Zeka ve Teknoloji Akademisi">
+  <img src="https://img.shields.io/badge/No--Code%20%2F%20Low--Code-1a1a1a?style=for-the-badge&logo=appveyor&logoColor=white" alt="No-Code/Low-Code">
+  <img src="https://img.shields.io/badge/Bootcamp-2026-e50914?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a" alt="Bootcamp 2026">
+</p>
+
+---
+
+<div align="center">
+
+<br><br>
+
+*BURAYA TANITIM GÖRSELİ EKLENİR.*
+
+<br><br>
+
+<a href="https://ezg441.github.io/CONDEA/"><img src="https://img.shields.io/badge/Ana%20Sayfa-000000?style=flat&color=CC0000&labelColor=000000" alt="Ana Sayfa"></a>
+<a href="https://script.google.com/macros/s/AKfycbzploiKCrNaQKBQeZW48aByxRfPZ112nKO9EdpSDlf9SE9fasAzSWHi7ffErY2w9ZOWyA/exec"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-000000?style=flat&color=CC0000&labelColor=000000" alt="Canlı Demo"></a>
+<a href="#"><img src="https://img.shields.io/badge/Sunum-000000?style=flat&color=CC0000&labelColor=000000" alt="Sunum"></a>
+<a href="#"><img src="https://img.shields.io/badge/Tan%C4%B1t%C4%B1m%20Videosu-000000?style=flat&color=CC0000&labelColor=000000" alt="Tanıtım Videosu"></a>
+<a href="https://www.youtube.com/@finance_1.0.1"><img src="https://img.shields.io/badge/YouTube%20Kanal%C4%B1-000000?style=flat&color=CC0000&labelColor=000000" alt="YouTube Kanalı"></a>
+
+</div>
 
 ---
 
