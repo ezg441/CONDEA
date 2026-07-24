@@ -33,7 +33,6 @@
 
 ## Ürün Bilgileri
 
-
 ### Ürün İsmi
 Condea
 ### Ürün Açıklaması
