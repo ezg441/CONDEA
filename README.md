@@ -33,10 +33,17 @@
 
 ## Ürün Bilgileri
 
+</summary>
+
 ### Ürün İsmi
 Condea
+
+---
+
 ### Ürün Açıklaması
 **Condea**, YouTube içerik üreticilerinin topluluklarından gelen değerli içerik fikirlerini kaçırmamasını sağlayan *akıllı bir otomasyon sistemidir*. *YZTA-2026 BOOTCAMP* kapsamında geliştirilen bu proje, YouTube yorumlarını otomatik olarak izler, Yapay Zeka (Google Gemini) desteğiyle "içerik tavsiyesi" taşıyan yorumları ayırt eder ve bu verileri düzenli bir rapor halinde kanal sahibine iletir. Condea, içerik üreticilerinin takipçileriyle kurduğu bağı güçlendirirken, içerik planlama sürecini veri odaklı bir hale getirir.
+
+---
 
 ### Ürün Özellikleri
 Condea projesinin temel fonksiyonları şunlardır:
@@ -45,10 +52,14 @@ Condea projesinin temel fonksiyonları şunlardır:
 * **Merkezi Veri Yönetimi**: İşlenen tüm yorumlar; metin, beğeni sayısı ve tarih bilgileriyle birlikte Google Sheets üzerinde kurumsal bir tablo yapısında depolanır.
 * **Otomatik Raporlama**: Sistem, periyodik olarak (haftalık/günlük) veri tabanını analiz eder ve en çok beğeni alan "içerik tavsiyelerini" derleyerek şık bir HTML e-posta tasarımı ile kanal sahibine raporlar.
 
+---
+
 ### Hedef Kitle
 Condea, özellikle aşağıdaki kullanıcılar için optimize edilmiştir:
 * **YouTube İçerik Üreticileri**: Takipçilerinden gelen harika fikirleri yorumlar arasında kaybetmek istemeyen ve içerik planlama sürecini otomatize etmek isteyen üreticiler.
 * **Kanal Yöneticileri**: Topluluk etkileşimlerini analiz edip, kanal stratejisini izleyici geri bildirimlerine göre şekillendirmeyi hedefleyen profesyoneller.
+
+---
 
 ### Product Backlog
 
@@ -71,18 +82,6 @@ Hangi hususlar dikkate alınarak projenin 3 sprinte bölündüğü, sprintlere a
 
 Tüm proje süreci boyunca gerçekleştirilmesi planlanan **toplam görev sayısı 32** _(User Story)_ ve **tüm görevlerin toplam puanı 117**'dir. _(User Story)_
 
-## Sistem Kodları
-
-Condea üç bileşenden oluşur; tüm kaynak kodları bu repodadır:
-
-- **`apps-script/`** — Yorum panelinin backend'i (`Kod.gs`) ve arayüzü (`Panel.html`). Google Apps Script Web App olarak yayınlanır.
-- **`make-senaryolari/`** — Make.com otomasyon akışlarının blueprint dosyaları:
-  - `1-yorum-toplama-ve-AI-siniflandirma.json` — YouTube'dan yorumları çeker, Gemini ile sınıflandırır, Google Sheets'e yazar.
-  - `2-insan-onayli-yanit.json` — Panelden onaylanan yanıtı ilgili YouTube yorumuna gönderir.
-- **`prompts/`** — Gemini çok etiketli sınıflandırma promptu.
-
-> **Güvenlik notu:** API anahtarları, webhook adresleri, Sheet ID ve hesap bilgileri koddan temizlenmiştir (`BURAYA_...` placeholder'ları). Sistemi çalıştırmak için bu alanlara kendi değerlerinizi girin.
-
 * **Sprint 1 — Temel Oluşturma:** Tüm süreci başlatacak ve geliştirilerek hedeflenen hâle getirilecek bir prototip.
 
   **Amaç:** Sistemin uçtan uca çalışan temel veri hattının kurulması; YouTube yorumlarının otomatik yakalanması, mükerrer kayıtların engellenmesi, Gemini ile temel sınıflandırmanın (içerik isteği tespiti) yapılması ve işlenen verilerin Google Sheets veri deposuna kaydedilmesi.
@@ -100,6 +99,8 @@ Condea üç bileşenden oluşur; tüm kaynak kodları bu repodadır:
   **Amaç:** Son kontrollerin ve deneyim iyileştirmelerinin yapılması; dokümantasyonun, teknik dosyaların, sunum dosyasının ve tanıtım videosunun hazırlanması.
 
   Bu sprintte gerçekleştirilmesi hedeflenen görevler, toplam **18 adet** ve **"25 puan + 48 puan" olmak üzere toplam 73 puandır**. **25 puanlık kısım**, gerçekleştirilmesi hedeflenen ana görevler olarak belirlenerek öncelenmiş, diğer **48 puanlık kısım** ise projenin gidişatına göre değerlendirilmek üzere "_EPIC 8: Ekstra Özelliklerin Eklenmesi_" şeklinde belirtilip projenin ana kapsamından ayrı tutulmuştur. Yani, _EPIC 8_ kapsamında olan görevler, proje için esas teşkil etmemektedir.
+
+---
 
 ### Sprint Takvimi
 
@@ -155,6 +156,19 @@ Condea üç bileşenden oluşur; tüm kaynak kodları bu repodadır:
   </tbody>
 </table>
 
+---
+
+### Sistem Kodları
+
+Condea üç bileşenden oluşur; tüm kaynak kodları bu repodadır:
+
+- **`apps-script/`** — Yorum panelinin backend'i (`Kod.gs`) ve arayüzü (`Panel.html`). Google Apps Script Web App olarak yayınlanır.
+- **`make-senaryolari/`** — Make.com otomasyon akışlarının blueprint dosyaları:
+  - `1-yorum-toplama-ve-AI-siniflandirma.json` — YouTube'dan yorumları çeker, Gemini ile sınıflandırır, Google Sheets'e yazar.
+  - `2-insan-onayli-yanit.json` — Panelden onaylanan yanıtı ilgili YouTube yorumuna gönderir.
+- **`prompts/`** — Gemini çok etiketli sınıflandırma promptu.
+
+> **Güvenlik notu:** API anahtarları, webhook adresleri, Sheet ID ve hesap bilgileri koddan temizlenmiştir (`BURAYA_...` placeholder'ları). Sistemi çalıştırmak için bu alanlara kendi değerlerinizi girin.
 
 </details>
 
@@ -204,7 +218,6 @@ Condea üç bileşenden oluşur; tüm kaynak kodları bu repodadır:
       <td align="center"><b>20 SP</b></td>
       <td>Süreci başlatacak ilk prototipin ortaya konması ve temel altyapının kurulması.</td>
     </tr>
-    <tr>
     </table>
 
 Öncelikle, ekipteki geliştiricilerin fikirleri esas alınarak, projenin hayata geçirilebilmesi için mutlaka tamamlanması gereken ana görevler ve alt görevler belirlendi. Henüz ilk sprint olması ve ekibin iş potansiyelinin tam olarak bilinememesi sebebiyle ilk sprint için yaklaşık üçte birlik bir görev yoğunluğu *(Süreç toplamda üç sprintten oluştuğu için)* mantıklı bulundu ve görevler, bu oranı karşılayacak şekilde sırasıyla eklendi. Sprint 1'de gösterilen ekip performansına bağlı olarak diğer sprintlerde görevlerin artırılmasına veya azaltılmasına karar verilebilir. İlaveten, Sprint 1 için yapılan görev planlamasının dışına çıkılarak sonraki sprintlerin görevleri erkene alınabilir. Bu sprint kapsamında, belirlenen **toplam 6 görev**in tamamlanması hedeflenmektedir. Bu görevler, **toplam 20 puan** değerindedir. 
