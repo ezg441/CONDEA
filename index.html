@@ -102,18 +102,6 @@
   .m-links a.gh:hover { background: #181717; color: #fff; border-color: #181717; }
 
   /* FOOTER */
-  /* DECK */
-  .deck { max-width: 860px; margin: 34px auto 0; }
-  .deck-stage { position: relative; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; background: #000; aspect-ratio: 16/9; }
-  .deck-stage img { width: 100%; height: 100%; object-fit: contain; display: block; }
-  .deck-nav { position: absolute; top: 50%; transform: translateY(-50%); width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--line); background: rgba(20,20,22,.75); color: #fff; font-size: 26px; line-height: 1; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all .15s; }
-  .deck-nav:hover { background: var(--red); border-color: var(--red); }
-  .deck-nav.prev { left: 12px; }
-  .deck-nav.next { right: 12px; }
-  .deck-bar { display: flex; align-items: center; justify-content: space-between; margin-top: 14px; flex-wrap: wrap; gap: 12px; }
-  .deck-bar #deckCount { color: var(--mut); font-size: 14px; font-weight: 700; }
-  .deck-dl { font-size: 14px; font-weight: 700; color: var(--txt); border: 1px solid var(--line); border-radius: 8px; padding: 8px 16px; transition: all .15s; }
-  .deck-dl:hover { border-color: var(--red); color: var(--red); }
   footer { border-top: 1px solid var(--line); background: var(--bg2); padding: 40px 0; text-align: center; }
   footer .logo { display: block; margin-bottom: 10px; }
   footer p { color: var(--mut); font-size: 13px; margin-bottom: 16px; }
@@ -130,7 +118,6 @@
       <a href="#ozellikler">Özellikler</a>
       <a href="#nasil">Nasıl Çalışır</a>
       <a href="#teknoloji">Teknoloji</a>
-      <a href="#sunum">Sunum</a>
       <a href="#ekip">Ekip</a>
       <a href="https://script.google.com/macros/s/AKfycbzploiKCrNaQKBQeZW48aByxRfPZ112nKO9EdpSDlf9SE9fasAzSWHi7ffErY2w9ZOWyA/exec" class="nav-cta" target="_blank">Uygulamayı Aç</a>
     </div>
@@ -220,23 +207,6 @@
   </div>
 </section>
 
-<section id="sunum" class="deck-sec">
-  <div class="wrap">
-    <div class="sec-t"><div class="kick">SUNUM</div><h2>Proje sunumu</h2><p>Slaytları sayfadan gezebilir veya dosyayı indirebilirsin.</p></div>
-    <div class="deck">
-      <div class="deck-stage">
-        <button class="deck-nav prev" onclick="deckMove(-1)" aria-label="Önceki">‹</button>
-        <img id="deckImg" src="sunum/slide-01.png" alt="Slayt 1">
-        <button class="deck-nav next" onclick="deckMove(1)" aria-label="Sonraki">›</button>
-      </div>
-      <div class="deck-bar">
-        <span id="deckCount">1 / 10</span>
-        <a class="deck-dl" href="sunum/CondeaSunum.pptx" download>⬇ Sunumu indir (.pptx)</a>
-      </div>
-    </div>
-  </div>
-</section>
-
 <section id="ekip">
   <div class="wrap">
     <div class="sec-t"><div class="kick">EKİP</div><h2>Grup 4</h2></div>
@@ -268,27 +238,6 @@
     </div>
   </div>
 </footer>
-
-<script>
-  var deckN = 1, deckTotal = 10;
-  function deckPad(n){ return n < 10 ? '0' + n : '' + n; }
-  function deckShow(){
-    document.getElementById('deckImg').src = 'sunum/slide-' + deckPad(deckN) + '.png';
-    document.getElementById('deckImg').alt = 'Slayt ' + deckN;
-    document.getElementById('deckCount').textContent = deckN + ' / ' + deckTotal;
-  }
-  function deckMove(d){
-    deckN += d;
-    if (deckN < 1) deckN = deckTotal;
-    if (deckN > deckTotal) deckN = 1;
-    deckShow();
-  }
-  document.addEventListener('keydown', function(e){
-    if (!document.getElementById('sunum')) return;
-    if (e.key === 'ArrowLeft') deckMove(-1);
-    if (e.key === 'ArrowRight') deckMove(1);
-  });
-</script>
 
 </body>
 </html>
