@@ -20,11 +20,13 @@
 
 <br><br>
 
-<a href="https://ezg441.github.io/CONDEA/"><img src="https://img.shields.io/badge/Ana%20Sayfa-000000?style=flat&color=CC0000&labelColor=000000" alt="Ana Sayfa"></a>
-<a href="https://script.google.com/macros/s/AKfycbzploiKCrNaQKBQeZW48aByxRfPZ112nKO9EdpSDlf9SE9fasAzSWHi7ffErY2w9ZOWyA/exec"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-000000?style=flat&color=CC0000&labelColor=000000" alt="Canlı Demo"></a>
-<a href="#"><img src="https://img.shields.io/badge/Sunum-000000?style=flat&color=CC0000&labelColor=000000" alt="Sunum"></a>
-<a href="#"><img src="https://img.shields.io/badge/Tan%C4%B1t%C4%B1m%20Videosu-000000?style=flat&color=CC0000&labelColor=000000" alt="Tanıtım Videosu"></a>
-<a href="https://www.youtube.com/@finance_1.0.1"><img src="https://img.shields.io/badge/YouTube%20Kanal%C4%B1-000000?style=flat&color=CC0000&labelColor=000000" alt="YouTube Kanalı"></a>
+<p align="center">
+  <a href="https://ezg441.github.io/CONDEA/"><img src="https://img.shields.io/badge/Ana%20Sayfa-000000?style=flat&color=CC0000&labelColor=000000" alt="Ana Sayfa" align="absmiddle"></a> &nbsp;•&nbsp; 
+  <a href="https://script.google.com/macros/s/AKfycbzploiKCrNaQKBQeZW48aByxRfPZ112nKO9EdpSDlf9SE9fasAzSWHi7ffErY2w9ZOWyA/exec"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-000000?style=flat&color=CC0000&labelColor=000000" alt="Canlı Demo" align="absmiddle"></a> &nbsp;•&nbsp; 
+  <a href="#"><img src="https://img.shields.io/badge/Sunum-000000?style=flat&color=CC0000&labelColor=000000" alt="Sunum" align="absmiddle"></a> &nbsp;•&nbsp; 
+  <a href="#"><img src="https://img.shields.io/badge/Tan%C4%B1t%C4%B1m%20Videosu-000000?style=flat&color=CC0000&labelColor=000000" alt="Tanıtım Videosu" align="absmiddle"></a> &nbsp;•&nbsp; 
+  <a href="https://www.youtube.com/@finance_1.0.1"><img src="https://img.shields.io/badge/YouTube%20Kanal%C4%B1-000000?style=flat&color=CC0000&labelColor=000000" alt="YouTube Kanalı" align="absmiddle"></a>
+</p>
 
 </div>
 
@@ -42,7 +44,7 @@
 | **Ufuk Demir** | ⏱️ `Scrum Master` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ufukdemiir) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ufukdemiir/) |
 | **Ezgisu Badak** | 👑 `Product Owner` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ezg441) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezgisu-badak-a2804820b) |
 | **Ayşe Dilara Baysal** | 💻 `Developer` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aysedilarabaysal) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayşedilarabaysal/) |
-| **Feyzanur Karatay** | 💻 `Developer` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/#) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feyzanurkaratay) |
+| **Feyzanur Karatay** | 💻 `Developer` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/feza09) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feyzanurkaratay) |
 | **Furkan Çakı** | 💻 `Developer` | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/cakiFurkan) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkançakı/) |
 
 </details>
