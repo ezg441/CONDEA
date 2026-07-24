@@ -1,0 +1,465 @@
+{
+    "name": "Condea - webhook ",
+    "flow": [
+        {
+            "id": 1,
+            "module": "gateway:CustomWebHook",
+            "version": 1,
+            "parameters": {
+                "hook": 3364634,
+                "maxResults": 1
+            },
+            "mapper": {},
+            "metadata": {
+                "designer": {
+                    "x": 0,
+                    "y": 150
+                },
+                "restore": {
+                    "parameters": {
+                        "hook": {
+                            "data": {
+                                "editable": "true"
+                            },
+                            "label": "condea webhook"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "hook",
+                        "type": "hook:gateway-webhook",
+                        "label": "Webhook",
+                        "required": true
+                    },
+                    {
+                        "name": "maxResults",
+                        "type": "number",
+                        "label": "Maximum number of results"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "module": "google-sheets:filterRows",
+            "version": 2,
+            "parameters": {
+                "__IMTCONN__": 8741064
+            },
+            "mapper": {
+                "from": "drive",
+                "limit": "10",
+                "filter": [
+                    [
+                        {
+                            "a": "H",
+                            "b": "onaylandı",
+                            "o": "text:equal"
+                        }
+                    ]
+                ],
+                "sheetId": "Sayfa1",
+                "spreadsheetId": "BURAYA_GOOGLE_SHEET_ID",
+                "tableFirstRow": "A1:CZ1",
+                "includesHeaders": true
+            },
+            "metadata": {
+                "designer": {
+                    "x": 300,
+                    "y": 150
+                },
+                "restore": {
+                    "expect": {
+                        "sheetId": {
+                            "mode": "chose",
+                            "label": "Sayfa1"
+                        },
+                        "spreadsheetId": {
+                            "mode": "chose",
+                            "label": "Condea-Veri-Defteri"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "google"
+                            },
+                            "label": "My Google connection (Google Baglantisi)"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 3,
+            "module": "youtube:replyToAComment",
+            "version": 4,
+            "parameters": {
+                "__IMTCONN__": 8748032
+            },
+            "filter": {
+                "name": "Yorum ID var",
+                "conditions": [
+                    [
+                        {
+                            "a": "{{2.`0`}}",
+                            "o": "exist"
+                        }
+                    ]
+                ]
+            },
+            "mapper": {
+                "content": "{{2.`5`}}",
+                "commentId": "{{2.`0`}}"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 600,
+                    "y": 150
+                },
+                "restore": {
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "youtube"
+                            },
+                            "label": "My YouTube connection (QuickFit <marka-kanali@ornek.com>)"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "__IMTCONN__",
+                        "type": "account:youtube",
+                        "label": "Connection",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "commentId",
+                        "type": "text",
+                        "label": "Comment ID",
+                        "required": true
+                    },
+                    {
+                        "name": "content",
+                        "type": "text",
+                        "label": "Content"
+                    }
+                ]
+            },
+            "onerror": [
+                {
+                    "id": 29,
+                    "module": "google-sheets:updateRow",
+                    "version": 2,
+                    "parameters": {
+                        "__IMTCONN__": 8741064
+                    },
+                    "mapper": {
+                        "from": "drive",
+                        "mode": "select",
+                        "values": {
+                            "İşlem Durumu": "gönderilemedi"
+                        },
+                        "sheetId": "Sayfa1",
+                        "rowNumber": "{{2.`__ROW_NUMBER__`}}",
+                        "spreadsheetId": "/BURAYA_GOOGLE_SHEET_ID",
+                        "includesHeaders": true,
+                        "useColumnHeaders": true,
+                        "valueInputOption": "USER_ENTERED"
+                    },
+                    "metadata": {
+                        "designer": {
+                            "x": 900,
+                            "y": 300
+                        },
+                        "restore": {
+                            "expect": {
+                                "from": {
+                                    "label": "My Drive"
+                                },
+                                "mode": {
+                                    "label": "Search by path"
+                                },
+                                "sheetId": {
+                                    "label": "Sayfa1"
+                                },
+                                "spreadsheetId": {
+                                    "path": [
+                                        "Condea-Veri-Defteri"
+                                    ]
+                                },
+                                "includesHeaders": {
+                                    "label": "Yes"
+                                },
+                                "useColumnHeaders": {
+                                    "label": "Yes"
+                                },
+                                "valueInputOption": {
+                                    "mode": "chose",
+                                    "label": "User entered"
+                                }
+                            },
+                            "parameters": {
+                                "__IMTCONN__": {
+                                    "data": {
+                                        "scoped": "true",
+                                        "connection": "google"
+                                    },
+                                    "label": "My Google connection (hesap@ornek.com)"
+                                }
+                            }
+                        },
+                        "parameters": [
+                            {
+                                "name": "__IMTCONN__",
+                                "type": "account:google",
+                                "label": "Connection",
+                                "required": true
+                            }
+                        ],
+                        "expect": [
+                            {
+                                "name": "mode",
+                                "type": "select",
+                                "label": "Search Method",
+                                "required": true,
+                                "validate": {
+                                    "enum": [
+                                        "select",
+                                        "fromAll",
+                                        "map"
+                                    ]
+                                }
+                            },
+                            {
+                                "name": "valueInputOption",
+                                "type": "select",
+                                "label": "Value input option",
+                                "validate": {
+                                    "enum": [
+                                        "USER_ENTERED",
+                                        "RAW"
+                                    ]
+                                }
+                            },
+                            {
+                                "name": "from",
+                                "type": "select",
+                                "label": "Drive",
+                                "required": true,
+                                "validate": {
+                                    "enum": [
+                                        "drive",
+                                        "share",
+                                        "team"
+                                    ]
+                                }
+                            },
+                            {
+                                "name": "spreadsheetId",
+                                "type": "file",
+                                "label": "Spreadsheet Name",
+                                "required": true
+                            },
+                            {
+                                "name": "sheetId",
+                                "type": "select",
+                                "label": "Sheet Name",
+                                "required": true
+                            },
+                            {
+                                "name": "rowNumber",
+                                "type": "uinteger",
+                                "label": "Row number",
+                                "required": true
+                            },
+                            {
+                                "name": "includesHeaders",
+                                "type": "select",
+                                "label": "Table contains headers",
+                                "required": true,
+                                "validate": {
+                                    "enum": [
+                                        true,
+                                        false
+                                    ]
+                                }
+                            },
+                            {
+                                "name": "useColumnHeaders",
+                                "type": "select",
+                                "label": "Use column headers as IDs of the columns",
+                                "required": true,
+                                "validate": {
+                                    "enum": [
+                                        true,
+                                        false
+                                    ]
+                                }
+                            },
+                            {
+                                "name": "values",
+                                "spec": [
+                                    {
+                                        "name": "Yorum Kimliği",
+                                        "type": "text",
+                                        "label": "Yorum Kimliği (A)"
+                                    },
+                                    {
+                                        "name": "Yorum Metni ",
+                                        "type": "text",
+                                        "label": "Yorum Metni  (B)"
+                                    },
+                                    {
+                                        "name": "Yorum Sahibi",
+                                        "type": "text",
+                                        "label": "Yorum Sahibi (C)"
+                                    },
+                                    {
+                                        "name": "Duygu Durumu",
+                                        "type": "text",
+                                        "label": "Duygu Durumu (D)"
+                                    },
+                                    {
+                                        "name": "Niyet",
+                                        "type": "text",
+                                        "label": "Niyet (E)"
+                                    },
+                                    {
+                                        "name": "Taslak A (Kurumsal)",
+                                        "type": "text",
+                                        "label": "Taslak A (Kurumsal) (F)"
+                                    },
+                                    {
+                                        "name": "Taslak B (Dinamik) ",
+                                        "type": "text",
+                                        "label": "Taslak B (Dinamik)  (G)"
+                                    },
+                                    {
+                                        "name": "İşlem Durumu",
+                                        "type": "text",
+                                        "label": "İşlem Durumu (H)"
+                                    },
+                                    {
+                                        "name": "Zaman Damgası ",
+                                        "type": "text",
+                                        "label": "Zaman Damgası  (I)"
+                                    },
+                                    {
+                                        "name": "Beğeni Sayısı",
+                                        "type": "text",
+                                        "label": "Beğeni Sayısı (J)"
+                                    },
+                                    {
+                                        "name": "Özel Konu Etiketi",
+                                        "type": "text",
+                                        "label": "Özel Konu Etiketi (K)"
+                                    },
+                                    {
+                                        "name": "Övgü/Yergi Etiketi",
+                                        "type": "text",
+                                        "label": "Övgü/Yergi Etiketi (L)"
+                                    }
+                                ],
+                                "type": "collection",
+                                "label": "Values in columns",
+                                "metadata": [
+                                    [
+                                        [
+                                            "Yorum Kimliği",
+                                            "Yorum Metni ",
+                                            "Yorum Sahibi",
+                                            "Duygu Durumu",
+                                            "Niyet",
+                                            "Taslak A (Kurumsal)",
+                                            "Taslak B (Dinamik) ",
+                                            "İşlem Durumu",
+                                            "Zaman Damgası ",
+                                            "Beğeni Sayısı",
+                                            "Özel Konu Etiketi",
+                                            "Övgü/Yergi Etiketi"
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "module": "google-sheets:updateRow",
+            "version": 2,
+            "parameters": {
+                "__IMTCONN__": 8741064
+            },
+            "mapper": {
+                "from": "drive",
+                "mode": "select",
+                "values": {
+                    "7": "gönderildi"
+                },
+                "sheetId": "Sayfa1",
+                "rowNumber": "{{2.`__ROW_NUMBER__`}}",
+                "spreadsheetId": "/BURAYA_GOOGLE_SHEET_ID",
+                "includesHeaders": true,
+                "valueInputOption": "USER_ENTERED"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 900,
+                    "y": 0
+                },
+                "restore": {
+                    "expect": {
+                        "sheetId": {
+                            "label": "Sayfa1"
+                        },
+                        "spreadsheetId": {
+                            "path": [
+                                "Condea-Veri-Defteri"
+                            ]
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "google"
+                            },
+                            "label": "My Google connection (Google Baglantisi)"
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "metadata": {
+        "instant": true,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "zone": "eu1.make.com",
+        "notes": []
+    }
+}
