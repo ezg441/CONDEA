@@ -32,18 +32,7 @@
 <summary>
 
 ## Ürün Bilgileri
-## Sistem Kodları
 
-Condea üç bileşenden oluşur; tüm kaynak kodları bu repodadır:
-
-- **`apps-script/`** — Yorum panelinin backend'i (`Kod.gs`) ve arayüzü (`Panel.html`). Google Apps Script Web App olarak yayınlanır.
-- **`make-senaryolari/`** — Make.com otomasyon akışlarının blueprint dosyaları:
-  - `1-yorum-toplama-ve-AI-siniflandirma.json` — YouTube'dan yorumları çeker, Gemini ile sınıflandırır, Google Sheets'e yazar.
-  - `2-insan-onayli-yanit.json` — Panelden onaylanan yanıtı ilgili YouTube yorumuna gönderir.
-- **`prompts/`** — Gemini çok etiketli sınıflandırma promptu.
-
-> **Güvenlik notu:** API anahtarları, webhook adresleri, Sheet ID ve hesap bilgileri koddan temizlenmiştir (`BURAYA_...` placeholder'ları). Sistemi çalıştırmak için bu alanlara kendi değerlerinizi girin.
-</summary>
 
 ### Ürün İsmi
 Condea
@@ -82,6 +71,18 @@ Proje toplam **3 sprint** olarak planlanmıştır ve "**Sprint Takvimi**" aşağ
 Hangi hususlar dikkate alınarak projenin 3 sprinte bölündüğü, sprintlere atanan görevler belirlenirken nelerin amaçlandığı **(backlog dağıtım mantığı)**, sprintlerdeki **toplam görev sayıları** ve sprintlerin **toplam görev puanları** aşağıda belirtilmektedir:
 
 Tüm proje süreci boyunca gerçekleştirilmesi planlanan **toplam görev sayısı 32** _(User Story)_ ve **tüm görevlerin toplam puanı 117**'dir. _(User Story)_
+
+## Sistem Kodları
+
+Condea üç bileşenden oluşur; tüm kaynak kodları bu repodadır:
+
+- **`apps-script/`** — Yorum panelinin backend'i (`Kod.gs`) ve arayüzü (`Panel.html`). Google Apps Script Web App olarak yayınlanır.
+- **`make-senaryolari/`** — Make.com otomasyon akışlarının blueprint dosyaları:
+  - `1-yorum-toplama-ve-AI-siniflandirma.json` — YouTube'dan yorumları çeker, Gemini ile sınıflandırır, Google Sheets'e yazar.
+  - `2-insan-onayli-yanit.json` — Panelden onaylanan yanıtı ilgili YouTube yorumuna gönderir.
+- **`prompts/`** — Gemini çok etiketli sınıflandırma promptu.
+
+> **Güvenlik notu:** API anahtarları, webhook adresleri, Sheet ID ve hesap bilgileri koddan temizlenmiştir (`BURAYA_...` placeholder'ları). Sistemi çalıştırmak için bu alanlara kendi değerlerinizi girin.
 
 * **Sprint 1 — Temel Oluşturma:** Tüm süreci başlatacak ve geliştirilerek hedeflenen hâle getirilecek bir prototip.
 
