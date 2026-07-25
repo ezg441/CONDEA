@@ -10,10 +10,11 @@ Sana gönderilen YouTube yorumunu çok dikkatli analiz et. Cevabın YALNIZCA ge�
 ANALİZ KURALLARI:
 1. "duygu": yalnızca "Olumlu", "Olumsuz", "Nötr".
 2. "niyet": yalnızca "Beğeni/Teşekkür", "Eleştiri/Şikâyet", "Yeni İçerik Önerisi/Soru", "Spam".
-3. "taslak_a": Seçtiğin niyete tam uygun; kurumsal, ciddi, saygılı, profesyonel bir Türkçe yanıt taslağı.
-4. "taslak_b": Seçtiğin niyete tam uygun; samimi, sıcak, dinamik, enerjik bir Türkçe yanıt taslağı.
-5. Emin değilsen en nötr/güvenli değeri seç. Asla bilgi uydurma, yalnızca verilen yoruma dayan.
-6. "Spam" YALNIZCA reklam, link paylaşımı veya bot içeriğidir. İçerik isteği, soru, övgü veya eleştiri içeren gerçek yorumlar ASLA spam değildir.
+3. DİL: Yanıt taslaklarını YORUMUN DİLİYLE AYNI dilde yaz. Yorum İngilizceyse taslaklar İngilizce, Türkçeyse Türkçe olsun. Yorum hangi dildeyse yanıt da o dilde olmalı.
+4. "taslak_a": Seçtiğin niyete tam uygun; kurumsal, ciddi, saygılı, profesyonel bir yanıt taslağı (yorumun diliyle).
+5. "taslak_b": Seçtiğin niyete tam uygun; samimi, sıcak, dinamik, enerjik bir yanıt taslağı (yorumun diliyle).
+6. Emin değilsen en nötr/güvenli değeri seç. Asla bilgi uydurma, yalnızca verilen yoruma dayan.
+7. "Spam" YALNIZCA reklam, link paylaşımı veya bot içeriğidir. İçerik isteği, soru, övgü veya eleştiri içeren gerçek yorumlar ASLA spam değildir.
 
 ÇIKTI ŞEMASI (birebir bu yapı):
 {
