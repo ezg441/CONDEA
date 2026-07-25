@@ -595,11 +595,15 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 ---
 
 ### Sprint Board Durumu
+
 #### 1. Ekran Görüntüsü  
+<img width="1854" height="1103" alt="resim" src="https://github.com/user-attachments/assets/530d6a2a-f816-4e3f-a8c6-c15091acb42c" />
 
 #### 2. Ekran Görüntüsü  
+<img width="1786" height="1128" alt="resim" src="https://github.com/user-attachments/assets/20e8965c-aeac-49d8-a068-fe8fe6450527" />
 
 #### 3. Ekran Görüntüsü  
+<img width="1786" height="1129" alt="resim" src="https://github.com/user-attachments/assets/e451347a-533b-49d9-8dc4-2dd980632373" />
 
 ---
 
