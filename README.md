@@ -10,14 +10,9 @@
 </p>
 
 ---
-
 <div align="center">
 
-<br><br>
-
-*BURAYA TANITIM GÖRSELİ EKLENİR.*
-
-<br><br>
+![Condea Öne Çıkarılan Görsel](one-cikarilan-gorsel/condea-readme-one-cikarilan-gorsel.png)
 
 <p align="center">
   <a href="https://ezg441.github.io/CONDEA/"><img src="https://img.shields.io/badge/Ana%20Sayfa-000000?style=flat&color=CC0000&labelColor=000000" alt="Ana Sayfa" align="absmiddle"></a> &nbsp;•&nbsp; 
