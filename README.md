@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://ezg441.github.io/CONDEA/"><img src="https://img.shields.io/badge/Ana%20Sayfa-000000?style=flat&color=CC0000&labelColor=000000" alt="Ana Sayfa" align="absmiddle"></a> &nbsp;•&nbsp; 
   <a href="https://script.google.com/macros/s/AKfycbzploiKCrNaQKBQeZW48aByxRfPZ112nKO9EdpSDlf9SE9fasAzSWHi7ffErY2w9ZOWyA/exec"><img src="https://img.shields.io/badge/Canl%C4%B1%20Demo-000000?style=flat&color=CC0000&labelColor=000000" alt="Canlı Demo" align="absmiddle"></a> &nbsp;•&nbsp; 
-  <a href="#"><img src="https://img.shields.io/badge/Sunum-000000?style=flat&color=CC0000&labelColor=000000" alt="Sunum" align="absmiddle"></a> &nbsp;•&nbsp; 
+  <a href="sunum-dosyasi/Condea (Sunum) (Grup 4) (YZTA - 2026) (BOOTCAMP).pdf"><img src="https://img.shields.io/badge/Sunum-000000?style=flat&color=CC0000&labelColor=000000" alt="Sunum" align="absmiddle"></a> &nbsp;•&nbsp; 
   <a href="#"><img src="https://img.shields.io/badge/Tan%C4%B1t%C4%B1m%20Videosu-000000?style=flat&color=CC0000&labelColor=000000" alt="Tanıtım Videosu" align="absmiddle"></a> &nbsp;•&nbsp; 
   <a href="https://www.youtube.com/@finance_1.0.1"><img src="https://img.shields.io/badge/YouTube%20Kanal%C4%B1-000000?style=flat&color=CC0000&labelColor=000000" alt="YouTube Kanalı" align="absmiddle"></a>
 </p>
