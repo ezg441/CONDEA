@@ -579,7 +579,7 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
   </tbody>
 </table>
 
-Sprint 2'de hedeflenen görevlerin başarıyla tamamlanması, ekibin iş temposunu ve kapasitesini istikrarlı bir şekilde koruyabildiğini gösterdi. Sprint 3, sürecin son aşaması ve nihai teslimat dönemi olduğu için, temel teslimat hazırlıklarını kapsayan ana hedeflere ek olarak ürünün yeteneklerini artıracak esnek bir görev havuzunun (Epic 8) backlog'a dahil edilmesi kararlaştırıldı. Sürecin çok yoğun geçerek ekibin iş veriminin düşmesini engellemek amacıyla esnek kapsam kontrollü bir şekilde yönetildi. Bu sprint kapsamında, belirlenen toplam **18 görev** üzerinde çalışılması; bu görevlerden 2'sinin teknik kısıtlar nedeniyle reddedilerek kalanların tamamlanması ve net **67 puanlık** iş yükünün geride bırakılması hedeflenmektedir..
+Sprint 2'de hedeflenen görevlerin başarıyla tamamlanması, ekibin iş temposunu ve kapasitesini istikrarlı bir şekilde koruyabildiğini gösterdi. Sprint 3, sürecin son aşaması ve nihai teslimat dönemi olduğu için, temel teslimat hazırlıklarını kapsayan ana hedeflere ek olarak ürünün yeteneklerini artıracak esnek bir görev havuzunun (Epic 8) backlog'a dahil edilmesi kararlaştırıldı. Sürecin çok yoğun geçerek ekibin iş veriminin düşmesini engellemek amacıyla esnek kapsam kontrollü bir şekilde yönetildi. Bu sprint kapsamında, belirlenen toplam **18 görev** üzerinde çalışılması; bu görevlerden 2'sinin teknik kısıtlar nedeniyle reddedilerek kalanların **(16 görev)** tamamlanması ve net **67 puanlık** iş yükünün geride bırakılması hedeflenmektedir..
 
 ---
 
