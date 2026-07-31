@@ -715,3 +715,34 @@ Bu süreçte projemize katkı sunan, vizyonumuzu geliştiren tüm Yapay Zeka ve 
 </details>
 
 ---
+
+<details>
+<summary>
+
+## Proje Kapanışı
+
+</summary>
+
+Yapay Zeka ve Teknoloji Akademisi (YZTA) 2026 Bootcamp programı kapsamında, 3 sprintlik yoğun ve disiplinli bir metodolojiyle geliştirilen **CONDEA**, YouTube içerik üreticilerinin topluluk etkileşimlerini veri odaklı bir stratejiyle yönetebilmesini sağlayan uçtan uca çalışan kararlı bir MVP (Minimum Viable Product) olarak başarıyla tamamlanmıştır. 
+
+Proje süresince karşılaşılan teknik zorluklar (ilk aşamadaki pivot süreci, API kota yönetimi ve gölge yanıt optimizasyonları), ekibin çevik kriz yönetimi ve güçlü iş birliği sayesinde avantaja dönüştürülmüştür. Toplamda 32 kullanıcı hikayesi ve 117 Story Point'lik kapsam, ana hedefler doğrultusunda eksiksiz bir şekilde hayata geçirilmiştir.
+
+### 🚀 Gelecek Vizyonu
+Condea’nın mevcut başarısını bir prototip aşamasından çıkararak ölçeklenebilir, ticari bir SaaS (Software as a Service) ürününe dönüştürmek amacıyla belirlenen gelecek vizyonu başlıkları şunlardır:
+
+1. **Gerçek OAuth 2.0 Entegrasyonu ve Çoklu Kanal Desteği:** 
+   * Mevcut parametrik yapının ötesine geçilerek, içerik üreticilerinin kendi Google ve YouTube hesaplarıyla güvenli bir şekilde giriş yapabileceği (`Sign in with Google`) çok kullanıcılı bir mimariye geçilmesi.
+2. **Gelişmiş Yapay Zeka Modelleri ve Duygu Trend Analizi:**
+   * Gemini entegrasyonunun derinleştirilerek, zaman içerisindeki izleyici duygu değişimlerinin (sentiment trends) grafiksel olarak raporlanması ve rekabet analizi özelliklerinin eklenmesi.
+3. **Çoklu Platform Genişlemesi:**
+   * Sistem mimarisinin modüler yapısı korunarak; TikTok, Instagram Reels ve Twitch gibi diğer popüler içerik platformlarının yorum ve geri bildirim akışlarının da sisteme entegre edilmesi.
+4. **Otomatik Aksiyon Alınabilir Bildirimler:**
+   * E-posta raporlarına ek olarak Slack, Telegram ve Discord gibi popüler topluluk kanallarına anlık webhook bildirimlerinin entegre edilmesi.
+
+---
+
+> *"Condea; topluluk sesini değere, içerik üreticilerini ise geleceğe bağlayan akıllı bir köprüdür."*
+
+Bu süreçte projemize katkı sunan, vizyonumuzu geliştiren tüm Yapay Zeka ve Teknoloji Akademisi eğitmenlerimize, mentörlerimize ve değerli jüri üyelerimize teşekkür ederiz.
+
+</details>
