@@ -660,7 +660,7 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 * Otomatik raporun kime gideceği (sahibin e-postası her zaman ekleniyor, aboneler ayrı listede) başta karışıklık yarattı; alıcı mantığının netleştirilmesi ek zaman aldı.
 * Sistemi dondurma kararına rağmen küçük iyileştirme istekleri gelmeye devam etti; kapsamı sabit tutmak ek disiplin gerektirdi.
 
-#### 🎯 Gelecek Sprint İçin Aksiyon Planları (Action Items)
+#### 🎯 Gelecek İçin Aksiyon Planları (Action Items)
 * **Aksiyon 1:** Jüri sunumundan önce ekipçe en az 3 kez baştan sona canlı prova yapılacak ve yedek demo videosu kontrol edilecek.
 * **Aksiyon 2:** Ürünleşme için gerçek Google OAuth 2.0 kapsam (scope) gereksinimleri önceden listelenecek.
 
@@ -668,22 +668,20 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 
 ### 📝 Sprint Notları
 
-**Amacı:** O sprintin tüm teknik ve idari özetidir. Projenin hafızasıdır (Archive). Dönüp bakıldığında o tarihte projenin hangi sürümde olduğu ve ne durumda olduğunu gösterir. İçinde takvim, metrikler, review ve retro özetleri bir arada bulunur.
-
 #### 📅 Genel Bilgiler
-*   **Tarih Aralığı:** 19 Haziran 2026 - 2 Temmuz 2026 (14 Gün)
-*   **Sprint Hedefi:** Temel otonom veri hattının çalışır hale getirilmesi (MVP)
-*   **Sprint Durumu:** Başarıyla Tamamlandı (Hatta Sprint 2 görevlerine erken başlandı)
+*   **Tarih Aralığı:** 20 Temmuz 2026 - 2 Ağustos 2026 (14 Gün)
+*   **Sprint Hedefi:** Otomatik raporlama sistemini devreye alınarak jüri sunumu için MVP'nin stabilize edilmesi
+*   **Sprint Durumu:** Başarıyla Tamamlandı
 
 #### 📈 Hız ve Metrikler (Velocity)
-*   **Planlanan İş (Story Point / Görev Sayısı):** 8 Görev
-*   **Tamamlanan İş:** 8 Görev (GoStock iptal edildikten sonra Condea kapsamında açılan tüm görevler kapatılmıştır.)
+*   **Planlanan İş (Story Point / Görev Sayısı):** 18 Görev
+*   **Tamamlanan İş:** 16 Görev (Tamamlanmayan 2 görev ekip tarafından bilinçli olarak reddedildi.)
 
 #### 🛠️ Teknik Gelişmeler & Sürüm Notları (Release Notes)
-*   **YouTube Otomasyonu:** Canlı yorum akışı Sheets'e bağlandı.
-*   **Filtreleme:** `Search Rows` ile mükerrer veri işleme hatası %100 engellendi.
-*   **Yapay Zeka:** Gemini API entegrasyonu ile otomatik duygu analizi ve yanıt taslağı kurgusu yapıldı.
-*   **Veri Mimarisi:** Verilerin Airtable/Sheets üzerinde ilişkisel tutulması sağlandı.
+*   **Zamanlayıcı (Ticker):** Make Interval/Ticker ile belirlenen gün ve saatte otomatik tetikleme başarıyla doğrulandı.
+*   **E-posta Raporlama:** Son 7 gün verisini işleyen otomatik e-posta raporu (Senaryo 2) devreye alındı; Sheets'ten çekilen veri HTML şablona yerleştirilip kanal sahibine ulaştırıldı ve günlük/haftalık alım sıklığı test edildi.
+*   **YouTube Otomasyonu:** İnsan onaylı otomatik YouTube yanıtı ile canlı test gerçekleştirildi, yanıt doğru marka kanalından yayınlandı.
+*   **Teslimat & Dokümantasyon:** Canlı deploy (public URL), GitHub teknik dokümantasyonu ve 3 dakikalık yedek demo videosu hazırlığı tamamlandı.
 
 #### ⚠️ Yaşanan Değişiklikler ve Kriz Yönetimi
 *   **22-23 Haziran:** GoStock projesinin zaman/imkan kısıtları nedeniyle iptal edilmesine ve yapay zeka odaklı **Condea** projesine geçilmesine oy birliğiyle karar verilmiştir. Bu stratejik pivot, projenin başarısını olumlu etkilemiştir.
