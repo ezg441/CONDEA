@@ -627,23 +627,23 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 
 ### 🔎 Sprint Review
 
-**Amacı:** Sprint boyunca "Ne ürettik?" sorusunun cevabıdır. Takım, Sprint başında hedeflediği ve bitirdiği çalışan özellikleri (ürün parçasını) canlı olarak demo yapar ve teknik doğrulamayı gerçekleştirir.
-
-* **Sprint Hedefi:** YouTube yorumlarını otonom olarak yakalayıp Gemini ile filtrelenmiş yapay zeka yanıtları üreten çalışan bir veri hattı (MVP) kurmak.
+* **Sprint Hedefi:** Belirlenen zaman aralıklarında raporların otomatik gönderilmesini sağlamak ve jüri sunumu için sistemi dondurup (stabilize edip) sunuma hazır bir MVP teslim etmek.
 * **Katılımcılar:** Ufuk Demir, Ezgisu Badak, Feyzanur Karatay, Furkan Çakı, Ayşe Dilara Baysal **(Tüm Scrum Takımı)**
 > *Not: Bu sprint sonu değerlendirmesi, dış paydaş katılımı olmaksızın "İç Teknik Demo" olarak gerçekleştirilmiştir.*
 
 ---
 
 * **Tamamlanan ve Demosu Yapılan İşler:**
-  * [✓] YouTube "Watch Comments" modülü entegrasyonu (Canlı akış başarıyla izlendi).
-  * [✓] Google Sheets üzerinden mükerrer yorum filtresi (Duplicate Filtering testi başarıyla geçildi).
-  * [✓] Gemini prompt mühendisliği ve 2 farklı yanıt taslağı üretimi (Çıktı kalitesi ekipçe onaylandı).
-  * [✓] Airtable veri mimarisi testi ve veri eşleştirme doğrulaması.
+  * [✓] Zaman ayarlı rapor senaryosu (Make Interval/Ticker) — belirli gün ve saatte otomatik tetikleme başarıyla doğrulandı.
+  * [✓] Son 7 gün verisini işleyen otomatik e-posta raporu (Senaryo 2) — Sheets'ten çekilen veri HTML şablona yerleştirilip kanal sahibine ulaştı.
+  * [✓] E-posta alım sıklığı seçimi (günlük / haftalık) — sıklığa göre otomatik tetikleme test edildi.
+  * [✓] İnsan onaylı otomatik YouTube yanıtı — canlı test yapıldı, yanıt doğru marka kanalından yayınlandı.
+  * [✓] Canlı deploy (public URL), GitHub teknik dokümantasyonu ve 3 dakikalık yedek demo videosu hazırlığı tamamlandı.
 
-* **Ekip İçi Teknik Değerlendirme & Gelecek Sprint Kararları:** 
-  * Gemini'ın ürettiği yanıt şablonlarının kalitesi ekip tarafından yeterli bulundu; ancak sonraki fazlarda yanıt kalitesini artırmak için bir "tonlama ayarı" (resmi/samimi) eklenmesi teknik backlog'a dahil edildi.
-  * Veri hattının kararlı çalıştığı internal demo ile doğrulandığından, Sprint 2'de doğrudan Softr arayüz tasarımına ve front-end geliştirmelerine odaklanılması kararlaştırıldı.
+* **Ekip İçi Teknik Değerlendirme & Ürünleştirme Kararları:** 
+  * Sistem, sprint amacına uygun olarak jüri sunumu için donduruldu; veri toplama hattına son iki haftada müdahale edilmedi. Canlı sunumdaki olası API/altyapı riskine karşı 3 dakikalık yedek demo videosu hazır tutulmasına karar verildi.
+  * "Canlı sunum için Demo Butonu" ve "Router ile senaryo birleştirme" maddeleri bilinçli olarak **reddedildi**: iki senaryo Make ücretsiz planının limitine zaten sığdığından Router gereksizdi, canlı tetikleme yerine ise güvenli yedek video tercih edildi.
+  * Ürünleşme fazı için gerçek Google OAuth 2.0 ile çok kullanıcılı yapıya geçiş (her kullanıcının kendi kanalını yetkilendirmesi) teknik backlog'a dahil edildi.
 
 ---
 
