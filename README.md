@@ -710,7 +710,7 @@ Condea’nın mevcut başarısını bir prototip aşamasından çıkararak ölç
 
 > *"Condea; topluluk sesini değere, içerik üreticilerini ise geleceğe bağlayan akıllı bir köprüdür."*
 
-Bu süreçte projemize katkı sunan, vizyonumuzu geliştiren tüm YZTA 2026 Bootcamp eğitmenlerimize, mentörlerimize ve değerli jüri üyelerimize teşekkür ederiz.
+Bu süreçte projemize katkı sunan, vizyonumuzu geliştiren tüm Yapay Zeka ve Teknoloji Akademisi eğitmenlerimize, mentörlerimize ve değerli jüri üyelerimize teşekkür ederiz.
 
 </details>
 
