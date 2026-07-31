@@ -649,20 +649,20 @@ Ekran görüntülerine aşağıdaki butonlara tıklayarak ulaşabilirsiniz:
 
 ### 🔄 Sprint Retrospective
 
-**Amacı:** Ürüne değil, takımın çalışma şekline ve süreçlerine odaklanılır. "Nasıl çalıştık, neleri daha iyi yapabiliriz?" sorusuna cevap aranır. Takım içi açık ve şeffaf bir dürüstlük seansıdır.
-
 #### 🟢 Ne İyi Gitti? (What went well?)
-*   İlk projedeki (GoStock) teknik engeli 4. günde çok hızlı fark edip pivot (fikir değiştirme) kararı alabildik. Zaman kaybetmedik.
-*   Make.com ve Gemini entegrasyonu beklediğimizden çok daha hızlı ve stabil çalıştı.
-*   Takım içi yardımlaşma ve Daily Scrum disiplini yüksekti.
+* Zaman ayarlı raporlama hattı planlandığı gibi tamamlandı ve otomatik e-postalar sorunsuz ulaştı.
+* Sprint amacına sadık kalıp veri toplama hattına dokunmadık; bu disiplin sistemi son iki haftada kararlı tuttu.
+* Bilinçli kapsam kararları aldık (Demo Butonu ve Router birleştirmenin reddedilmesi) ve gereksiz karmaşıklıktan kaçındık.
+* Hata yönetimi (Make `onerror` + Apps Script "Hatalar" sekmesi) sayesinde hiçbir yanıt sessizce kaybolmadı; sistem sunuma güvenle taşınabilir hale geldi.
 
 #### 🔴 Ne Kötü Gitti? (What went wrong?)
-*   Sprint başında projenin teknik fizibilitesini tam yapmadığımız için ilk 3 günü boşa harcadık ve proje değiştirmek zorunda kaldık.
-*   YouTube'daki "gölge yanıt" sorunu bizi 1 gün boyunca blokladı.
+* Zaman ayarlı tetikleyicinin (günlük/haftalık) doğru saatte çalıştığını doğrulamak için gerçek zamanı beklemek gerekti; anlık test yapamadığımız için doğrulama döngüsü yavaşladı.
+* Otomatik raporun kime gideceği (sahibin e-postası her zaman ekleniyor, aboneler ayrı listede) başta karışıklık yarattı; alıcı mantığının netleştirilmesi ek zaman aldı.
+* Sistemi dondurma kararına rağmen küçük iyileştirme istekleri gelmeye devam etti; kapsamı sabit tutmak ek disiplin gerektirdi.
 
 #### 🎯 Gelecek Sprint İçin Aksiyon Planları (Action Items)
-*   **Aksiyon 1:** Sprint 2 planlamasına başlamadan önce No-Code araçlarının (Softr) teknik sınırları kontrol edilecek. (Sorumlu: Geliştirici A)
-*   **Aksiyon 2:** API kota ve kısıtlamaları önceden listelenecek. (Sorumlu: Geliştirici B)
+* **Aksiyon 1:** Jüri sunumundan önce ekipçe en az 3 kez baştan sona canlı prova yapılacak ve yedek demo videosu kontrol edilecek.
+* **Aksiyon 2:** Ürünleşme için gerçek Google OAuth 2.0 kapsam (scope) gereksinimleri önceden listelenecek.
 
 ---
 
