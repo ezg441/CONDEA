@@ -2,11 +2,6 @@
 
 > *"Keşfet. Yakala. Yayınla."*
 
-![Grup 4](https://img.shields.io/badge/Grup-4-007ec6?style=for-the-badge&logo=github&logoColor=white)
-![Yapay Zeka ve Teknoloji Akademisi](https://img.shields.io/badge/Yapay_Zeka_ve_Teknoloji_Akademisi-007ec6?style=for-the-badge&logo=google-cloud&logoColor=white)
-![No-Code/Low-Code](https://img.shields.io/badge/No--Code_%2F_Low--Code-007ec6?style=for-the-badge&logo=appveyor&logoColor=white)
-![Bootcamp 2026](https://img.shields.io/badge/Bootcamp-2026-007ec6?style=for-the-badge&logo=rocket&logoColor=white)
-
 <p align="left">
   <img src="https://img.shields.io/badge/Grup-4-e50914?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Grup 4">
   <img src="https://img.shields.io/badge/Yapay%20Zeka%20ve%20Teknoloji%20Akademisi-1a1a1a?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Yapay Zeka ve Teknoloji Akademisi">
