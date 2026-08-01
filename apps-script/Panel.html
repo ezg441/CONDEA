@@ -183,6 +183,7 @@
     <button class="hbtn" id="resetBtn" onclick="resetChannel(this)" style="display:none" title="Bu demo kanalın verisini sıfırla">🗑 Sıfırla</button>
     <div class="spacer"></div>
     <div class="user" id="userBox">…</div>
+    <button class="hbtn" onclick="window.open('https://www.youtube.com/@finance_1.0.1','_blank')" title="YouTube kanalını aç">▶ YouTube Kanalı</button>
     <button class="hbtn" onclick="refresh()" title="Yorumları yenile">🔄 Yenile</button>
     <button class="hbtn" onclick="openSettings()" title="Kanal ayarları">⚙ Ayarlar</button>
     <button class="btn-report" id="reportBtn" onclick="doReport()">📊 Rapor Üret</button>
@@ -312,7 +313,9 @@
 
   function unsub() {
     var em = document.getElementById('wEmail') ? document.getElementById('wEmail').value.trim() : '';
-    if (!em) { toast('err', 'Silmek için e-postanı yaz.'); return; }
+    if (!em) { em = (prompt('Silmek istediğin e-posta adresini gir:') || '').trim(); }
+    if (!em) return;
+    if (!/\S+@\S+\.\S+/.test(em)) { toast('err', 'Geçerli bir e-posta adresi gir.'); return; }
     if (!confirm(em + ' adresini ve rapor aboneliğini silmek istediğine emin misin?')) return;
     google.script.run
       .withSuccessHandler(function (res) {
