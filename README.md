@@ -1,5 +1,6 @@
 # **CONDEA: "Akıllı İçerik Öneri Takip Sistemi"**
 
+
 > *"Keşfet. Yakala. Yayınla."*
 
 <p align="left">
